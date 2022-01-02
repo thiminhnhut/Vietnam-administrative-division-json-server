@@ -71,7 +71,7 @@ def convert_mydb(input_file, output_file):
 
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(
-            dict(timestamp=strftime("%Y-%m-%d %H:%M:%S", gmtime()), provice=db),
+            dict(timestamp=strftime("%Y-%m-%d %H:%M:%S", gmtime()), provinces=db),
             f, ensure_ascii=False, indent=4)
 
 
