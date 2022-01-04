@@ -65,7 +65,7 @@ def convert_mydb(input_file, output_file):
                 db_commune = list()
                 for commune in communes:
                     if commune.idDistrict == district.idDistrict:
-                        db_commune.append(commune.name.title())
+                        db_commune.append(commune.name)
                 db_district[district.name.title()] = db_commune
         db[province.name.title()] = db_district
 

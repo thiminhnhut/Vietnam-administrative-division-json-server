@@ -1,5 +1,5 @@
 {
-    "timestamp": "2022-01-02 07:44:28",
+    "timestamp": "2022-01-04 08:52:12",
     "provinces": {
         "Thành Phố Hà Nội": {
             "Quận Ba Đình": [
@@ -147,7 +147,7 @@
                 "Phường Kim Giang"
             ],
             "Huyện Sóc Sơn": [
-                "Thị Trấn Sóc Sơn",
+                "Thị trấn Sóc Sơn",
                 "Xã Bắc Sơn",
                 "Xã Minh Trí",
                 "Xã Hồng Kỳ",
@@ -175,7 +175,7 @@
                 "Xã Xuân Thu"
             ],
             "Huyện Đông Anh": [
-                "Thị Trấn Đông Anh",
+                "Thị trấn Đông Anh",
                 "Xã Xuân Nộn",
                 "Xã Thuỵ Lâm",
                 "Xã Bắc Hồng",
@@ -201,7 +201,7 @@
                 "Xã Đông Hội"
             ],
             "Huyện Gia Lâm": [
-                "Thị Trấn Yên Viên",
+                "Thị trấn Yên Viên",
                 "Xã Yên Thường",
                 "Xã Yên Viên",
                 "Xã Ninh Hiệp",
@@ -214,7 +214,7 @@
                 "Xã Đặng Xá",
                 "Xã Phú Thị",
                 "Xã Kim Sơn",
-                "Thị Trấn Trâu Quỳ",
+                "Thị trấn Trâu Quỳ",
                 "Xã Dương Quang",
                 "Xã Dương Xá",
                 "Xã Đông Dư",
@@ -237,7 +237,7 @@
                 "Phường Trung Văn"
             ],
             "Huyện Thanh Trì": [
-                "Thị Trấn Văn Điển",
+                "Thị trấn Văn Điển",
                 "Xã Tân Triều",
                 "Xã Thanh Liệt",
                 "Xã Tả Thanh Oai",
@@ -250,7 +250,7 @@
                 "Xã Duyên Hà",
                 "Xã Ngọc Hồi",
                 "Xã Vạn Phúc",
-                "Xã Đại Áng",
+                "Xã Đại áng",
                 "Xã Liên Ninh",
                 "Xã Đông Mỹ"
             ],
@@ -270,13 +270,13 @@
                 "Phường Phúc Diễn"
             ],
             "Huyện Mê Linh": [
-                "Thị Trấn Chi Đông",
+                "Thị trấn Chi Đông",
                 "Xã Đại Thịnh",
                 "Xã Kim Hoa",
                 "Xã Thạch Đà",
                 "Xã Tiến Thắng",
                 "Xã Tự Lập",
-                "Thị Trấn Quang Minh",
+                "Thị trấn Quang Minh",
                 "Xã Thanh Lâm",
                 "Xã Tam Đồng",
                 "Xã Liên Mạc",
@@ -326,7 +326,7 @@
                 "Xã Cổ Đông"
             ],
             "Huyện Ba Vì": [
-                "Thị Trấn Tây Đằng",
+                "Thị trấn Tây Đằng",
                 "Xã Phú Cường",
                 "Xã Cổ Đô",
                 "Xã Tản Hồng",
@@ -359,7 +359,7 @@
                 "Xã Khánh Thượng"
             ],
             "Huyện Phúc Thọ": [
-                "Thị Trấn Phúc Thọ",
+                "Thị trấn Phúc Thọ",
                 "Xã Vân Hà",
                 "Xã Vân Phúc",
                 "Xã Vân Nam",
@@ -382,7 +382,7 @@
                 "Xã Liên Hiệp"
             ],
             "Huyện Đan Phượng": [
-                "Thị Trấn Phùng",
+                "Thị trấn Phùng",
                 "Xã Trung Châu",
                 "Xã Thọ An",
                 "Xã Thọ Xuân",
@@ -400,7 +400,7 @@
                 "Xã Song Phượng"
             ],
             "Huyện Hoài Đức": [
-                "Thị Trấn Trạm Trôi",
+                "Thị trấn Trạm Trôi",
                 "Xã Đức Thượng",
                 "Xã Minh Khai",
                 "Xã Dương Liễu",
@@ -423,7 +423,7 @@
             ],
             "Huyện Quốc Oai": [
                 "Xã Đông Xuân",
-                "Thị Trấn Quốc Oai",
+                "Thị trấn Quốc Oai",
                 "Xã Sài Sơn",
                 "Xã Phượng Cách",
                 "Xã Yên Sơn",
@@ -448,7 +448,7 @@
                 "Xã Yên Trung",
                 "Xã Yên Bình",
                 "Xã Tiến Xuân",
-                "Thị Trấn Liên Quan",
+                "Thị trấn Liên Quan",
                 "Xã Đại Đồng",
                 "Xã Cẩm Yên",
                 "Xã Lại Thượng",
@@ -470,8 +470,8 @@
                 "Xã Đồng Trúc"
             ],
             "Huyện Chương Mỹ": [
-                "Thị Trấn Chúc Sơn",
-                "Thị Trấn Xuân Mai",
+                "Thị trấn Chúc Sơn",
+                "Thị trấn Xuân Mai",
                 "Xã Phụng Châu",
                 "Xã Tiên Phương",
                 "Xã Đông Sơn",
@@ -504,7 +504,7 @@
                 "Xã Phú Nam An"
             ],
             "Huyện Thanh Oai": [
-                "Thị Trấn Kim Bài",
+                "Thị trấn Kim Bài",
                 "Xã Cự Khê",
                 "Xã Bích Hòa",
                 "Xã Mỹ Hưng",
@@ -527,7 +527,7 @@
                 "Xã Hồng Dương"
             ],
             "Huyện Thường Tín": [
-                "Thị Trấn Thường Tín",
+                "Thị trấn Thường Tín",
                 "Xã Ninh Sở",
                 "Xã Nhị Khê",
                 "Xã Duyên Thái",
@@ -558,8 +558,8 @@
                 "Xã Minh Cường"
             ],
             "Huyện Phú Xuyên": [
-                "Thị Trấn Phú Minh",
-                "Thị Trấn Phú Xuyên",
+                "Thị trấn Phú Minh",
+                "Thị trấn Phú Xuyên",
                 "Xã Hồng Minh",
                 "Xã Phượng Dực",
                 "Xã Nam Tiến",
@@ -587,7 +587,7 @@
                 "Xã Minh Tân"
             ],
             "Huyện Ứng Hòa": [
-                "Thị Trấn Vân Đình",
+                "Thị trấn Vân Đình",
                 "Xã Viên An",
                 "Xã Viên Nội",
                 "Xã Hoa Sơn",
@@ -618,7 +618,7 @@
                 "Xã Hồng Quang"
             ],
             "Huyện Mỹ Đức": [
-                "Thị Trấn Đại Nghĩa",
+                "Thị trấn Đại Nghĩa",
                 "Xã Đồng Tâm",
                 "Xã Thượng Lâm",
                 "Xã Tuy Lai",
@@ -927,7 +927,7 @@
                 "Phường Phú Mỹ"
             ],
             "Huyện Củ Chi": [
-                "Thị Trấn Củ Chi",
+                "Thị trấn Củ Chi",
                 "Xã Phú Mỹ Hưng",
                 "Xã An Phú",
                 "Xã Trung Lập Thượng",
@@ -950,7 +950,7 @@
                 "Xã Tân Thông Hội"
             ],
             "Huyện Hóc Môn": [
-                "Thị Trấn Hóc Môn",
+                "Thị trấn Hóc Môn",
                 "Xã Tân Hiệp",
                 "Xã Nhị Bình",
                 "Xã Đông Thạnh",
@@ -964,7 +964,7 @@
                 "Xã Bà Điểm"
             ],
             "Huyện Bình Chánh": [
-                "Thị Trấn Tân Túc",
+                "Thị trấn Tân Túc",
                 "Xã Phạm Văn Hai",
                 "Xã Vĩnh Lộc A",
                 "Xã Vĩnh Lộc B",
@@ -982,7 +982,7 @@
                 "Xã Quy Đức"
             ],
             "Huyện Nhà Bè": [
-                "Thị Trấn Nhà Bè",
+                "Thị trấn Nhà Bè",
                 "Xã Phước Kiển",
                 "Xã Phước Lộc",
                 "Xã Nhơn Đức",
@@ -991,7 +991,7 @@
                 "Xã Hiệp Phước"
             ],
             "Huyện Cần Giờ": [
-                "Thị Trấn Cần Thạnh",
+                "Thị trấn Cần Thạnh",
                 "Xã Bình Khánh",
                 "Xã Tam Thôn Hiệp",
                 "Xã An Thới Đông",
@@ -1082,8 +1082,8 @@
                 "Phường Tân Thành"
             ],
             "Huyện Thuỷ Nguyên": [
-                "Thị Trấn Núi Đèo",
-                "Thị Trấn Minh Đức",
+                "Thị trấn Núi Đèo",
+                "Thị trấn Minh Đức",
                 "Xã Lại Xuân",
                 "Xã An Sơn",
                 "Xã Kỳ Sơn",
@@ -1121,7 +1121,7 @@
                 "Xã Dương Quan"
             ],
             "Huyện An Dương": [
-                "Thị Trấn An Dương",
+                "Thị trấn An Dương",
                 "Xã Lê Thiện",
                 "Xã Đại Bản",
                 "Xã An Hoà",
@@ -1139,7 +1139,7 @@
                 "Xã Hồng Thái"
             ],
             "Huyện An Lão": [
-                "Thị Trấn An Lão",
+                "Thị trấn An Lão",
                 "Xã Bát Trang",
                 "Xã Trường Thọ",
                 "Xã Trường Thành",
@@ -1148,7 +1148,7 @@
                 "Xã Quang Trung",
                 "Xã Quốc Tuấn",
                 "Xã An Thắng",
-                "Thị Trấn Trường Sơn",
+                "Thị trấn Trường Sơn",
                 "Xã Tân Dân",
                 "Xã Thái Sơn",
                 "Xã Tân Viên",
@@ -1158,7 +1158,7 @@
                 "Xã An Thái"
             ],
             "Huyện Kiến Thuỵ": [
-                "Thị Trấn Núi Đối",
+                "Thị trấn Núi Đối",
                 "Xã Đông Phương",
                 "Xã Thuận Thiên",
                 "Xã Hữu Bằng",
@@ -1178,7 +1178,7 @@
                 "Xã Đại Hợp"
             ],
             "Huyện Tiên Lãng": [
-                "Thị Trấn Tiên Lãng",
+                "Thị trấn Tiên Lãng",
                 "Xã Đại Thắng",
                 "Xã Tiên Cường",
                 "Xã Tự Cường",
@@ -1201,7 +1201,7 @@
                 "Xã Vinh Quang"
             ],
             "Huyện Vĩnh Bảo": [
-                "Thị Trấn Vĩnh Bảo",
+                "Thị trấn Vĩnh Bảo",
                 "Xã Dũng Tiến",
                 "Xã Giang Biên",
                 "Xã Thắng Thuỷ",
@@ -1233,8 +1233,8 @@
                 "Xã Trấn Dương"
             ],
             "Huyện Cát Hải": [
-                "Thị Trấn Cát Bà",
-                "Thị Trấn Cát Hải",
+                "Thị trấn Cát Bà",
+                "Thị trấn Cát Hải",
                 "Xã Nghĩa Lộ",
                 "Xã Đồng Bài",
                 "Xã Hoàng Châu",
@@ -1275,7 +1275,7 @@
                 "Phường Thuận Phước",
                 "Phường Thạch Thang",
                 "Phường Hải Châu  I",
-                "Phường Hải Châu Ii",
+                "Phường Hải Châu II",
                 "Phường Phước Ninh",
                 "Phường Hòa Thuận Tây",
                 "Phường Hòa Thuận Đông",
@@ -1380,8 +1380,8 @@
             ],
             "Huyện Vĩnh Thạnh": [
                 "Xã Vĩnh Bình",
-                "Thị Trấn Thanh An",
-                "Thị Trấn Vĩnh Thạnh",
+                "Thị trấn Thanh An",
+                "Thị trấn Vĩnh Thạnh",
                 "Xã Thạnh Mỹ",
                 "Xã Vĩnh Trinh",
                 "Xã Thạnh An",
@@ -1396,7 +1396,7 @@
                 "Xã Trung Thạnh",
                 "Xã Thạnh Phú",
                 "Xã Trung Hưng",
-                "Thị Trấn Cờ Đỏ",
+                "Thị trấn Cờ Đỏ",
                 "Xã Thới Hưng",
                 "Xã Đông Hiệp",
                 "Xã Đông Thắng",
@@ -1404,7 +1404,7 @@
                 "Xã Thới Xuân"
             ],
             "Huyện Phong Điền": [
-                "Thị Trấn Phong Điền",
+                "Thị trấn Phong Điền",
                 "Xã Nhơn Ái",
                 "Xã Giai Xuân",
                 "Xã Tân Thới",
@@ -1413,7 +1413,7 @@
                 "Xã Nhơn Nghĩa"
             ],
             "Huyện Thới Lai": [
-                "Thị Trấn Thới Lai",
+                "Thị trấn Thới Lai",
                 "Xã Thới Thạnh",
                 "Xã Tân Thạnh",
                 "Xã Xuân Thắng",
@@ -1440,10 +1440,10 @@
                 "Xã Phương Thiện"
             ],
             "Huyện Đồng Văn": [
-                "Thị Trấn Phó Bảng",
+                "Thị trấn Phó Bảng",
                 "Xã Lũng Cú",
                 "Xã Má Lé",
-                "Thị Trấn Đồng Văn",
+                "Thị trấn Đồng Văn",
                 "Xã Lũng Táo",
                 "Xã Phố Là",
                 "Xã Thài Phìn Tủng",
@@ -1461,7 +1461,7 @@
                 "Xã Sủng Trái"
             ],
             "Huyện Mèo Vạc": [
-                "Thị Trấn Mèo Vạc",
+                "Thị trấn Mèo Vạc",
                 "Xã Thượng Phùng",
                 "Xã Pải Lủng",
                 "Xã Xín Cái",
@@ -1481,7 +1481,7 @@
                 "Xã Niêm Sơn"
             ],
             "Huyện Yên Minh": [
-                "Thị Trấn Yên Minh",
+                "Thị trấn Yên Minh",
                 "Xã Thắng Mố",
                 "Xã Phú Lũng",
                 "Xã Sủng Tráng",
@@ -1501,7 +1501,7 @@
                 "Xã Du Già"
             ],
             "Huyện Quản Bạ": [
-                "Thị Trấn Tam Sơn",
+                "Thị trấn Tam Sơn",
                 "Xã Bát Đại Sơn",
                 "Xã Nghĩa Thuận",
                 "Xã Cán Tỷ",
@@ -1519,8 +1519,8 @@
                 "Xã Kim Thạch",
                 "Xã Phú Linh",
                 "Xã Kim Linh",
-                "Thị Trấn Vị Xuyên",
-                "Thị Trấn Nông Trường Việt Lâm",
+                "Thị trấn Vị Xuyên",
+                "Thị trấn Nông Trường Việt Lâm",
                 "Xã Minh Tân",
                 "Xã Thuận Hoà",
                 "Xã Tùng Bá",
@@ -1545,7 +1545,7 @@
                 "Xã Minh Sơn",
                 "Xã Giáp Trung",
                 "Xã Yên Định",
-                "Thị Trấn Yên Phú",
+                "Thị trấn Yên Phú",
                 "Xã Minh Ngọc",
                 "Xã Yên Phong",
                 "Xã Lạc Nông",
@@ -1557,7 +1557,7 @@
                 "Xã Phiêng Luông"
             ],
             "Huyện Hoàng Su Phì": [
-                "Thị Trấn Vinh Quang",
+                "Thị trấn Vinh Quang",
                 "Xã Bản Máy",
                 "Xã Thàng Tín",
                 "Xã Thèn Chu Phìn",
@@ -1583,7 +1583,7 @@
                 "Xã Nậm Khòa"
             ],
             "Huyện Xín Mần": [
-                "Thị Trấn Cốc Pài",
+                "Thị trấn Cốc Pài",
                 "Xã Nàn Xỉn",
                 "Xã Bản Díu",
                 "Xã Chí Cà",
@@ -1603,8 +1603,8 @@
                 "Xã Khuôn Lùng"
             ],
             "Huyện Bắc Quang": [
-                "Thị Trấn Việt Quang",
-                "Thị Trấn Vĩnh Tuy",
+                "Thị trấn Việt Quang",
+                "Thị trấn Vĩnh Tuy",
                 "Xã Tân Lập",
                 "Xã Tân Thành",
                 "Xã Đồng Tiến",
@@ -1633,7 +1633,7 @@
                 "Xã Tân Nam",
                 "Xã Bản Rịa",
                 "Xã Yên Thành",
-                "Thị Trấn Yên Bình",
+                "Thị trấn Yên Bình",
                 "Xã Tân Trịnh",
                 "Xã Tân Bắc",
                 "Xã Bằng Lang",
@@ -1660,7 +1660,7 @@
                 "Xã Chu Trinh"
             ],
             "Huyện Bảo Lâm": [
-                "Thị Trấn Pác Miầu",
+                "Thị trấn Pác Miầu",
                 "Xã Đức Hạnh",
                 "Xã Lý Bôn",
                 "Xã Nam Cao",
@@ -1675,7 +1675,7 @@
                 "Xã Yên Thổ"
             ],
             "Huyện Bảo Lạc": [
-                "Thị Trấn Bảo Lạc",
+                "Thị trấn Bảo Lạc",
                 "Xã Cốc Pàng",
                 "Xã Thượng Hà",
                 "Xã Cô Ba",
@@ -1694,7 +1694,7 @@
                 "Xã Sơn Lộ"
             ],
             "Huyện Hà Quảng": [
-                "Thị Trấn Thông Nông",
+                "Thị trấn Thông Nông",
                 "Xã Cần Yên",
                 "Xã Cần Nông",
                 "Xã Lương Thông",
@@ -1703,7 +1703,7 @@
                 "Xã Yên Sơn",
                 "Xã Lương Can",
                 "Xã Thanh Long",
-                "Thị Trấn Xuân Hòa",
+                "Thị trấn Xuân Hòa",
                 "Xã Lũng Nặm",
                 "Xã Trường Hà",
                 "Xã Cải Viên",
@@ -1717,14 +1717,14 @@
                 "Xã Ngọc Đào"
             ],
             "Huyện Trùng Khánh": [
-                "Thị Trấn Trà Lĩnh",
+                "Thị trấn Trà Lĩnh",
                 "Xã Tri Phương",
                 "Xã Quang Hán",
                 "Xã Xuân Nội",
                 "Xã Quang Trung",
                 "Xã Quang Vinh",
                 "Xã Cao Chương",
-                "Thị Trấn Trùng Khánh",
+                "Thị trấn Trùng Khánh",
                 "Xã Ngọc Khê",
                 "Xã Ngọc Côn",
                 "Xã Phong Nậm",
@@ -1748,7 +1748,7 @@
                 "Xã Kim Loan",
                 "Xã Quang Long",
                 "Xã An Lạc",
-                "Thị Trấn Thanh Nhật",
+                "Thị trấn Thanh Nhật",
                 "Xã Vinh Quý",
                 "Xã Thống Nhất",
                 "Xã Cô Ngân",
@@ -1756,7 +1756,7 @@
             ],
             "Huyện Quảng Hòa": [
                 "Xã Quốc Toản",
-                "Thị Trấn Quảng Uyên",
+                "Thị trấn Quảng Uyên",
                 "Xã Phi Hải",
                 "Xã Quảng Hưng",
                 "Xã Độc Lập",
@@ -1767,16 +1767,16 @@
                 "Xã Hồng Quang",
                 "Xã Ngọc Động",
                 "Xã Hạnh Phúc",
-                "Thị Trấn Tà Lùng",
+                "Thị trấn Tà Lùng",
                 "Xã Bế Văn Đàn",
                 "Xã Cách Linh",
                 "Xã Đại Sơn",
                 "Xã Tiên Thành",
-                "Thị Trấn Hoà Thuận",
+                "Thị trấn Hoà Thuận",
                 "Xã Mỹ Hưng"
             ],
             "Huyện Hoà An": [
-                "Thị Trấn Nước Hai",
+                "Thị trấn Nước Hai",
                 "Xã Dân Chủ",
                 "Xã Nam Tuấn",
                 "Xã Đại Tiến",
@@ -1793,8 +1793,8 @@
                 "Xã Hồng Nam"
             ],
             "Huyện Nguyên Bình": [
-                "Thị Trấn Nguyên Bình",
-                "Thị Trấn Tĩnh Túc",
+                "Thị trấn Nguyên Bình",
+                "Thị trấn Tĩnh Túc",
                 "Xã Yên Lạc",
                 "Xã Triệu Nguyên",
                 "Xã Ca Thành",
@@ -1812,7 +1812,7 @@
                 "Xã Hưng Đạo"
             ],
             "Huyện Thạch An": [
-                "Thị Trấn Đông Khê",
+                "Thị trấn Đông Khê",
                 "Xã Canh Tân",
                 "Xã Kim Đồng",
                 "Xã Minh Khai",
@@ -1852,7 +1852,7 @@
                 "Xã Cao Tân"
             ],
             "Huyện Ba Bể": [
-                "Thị Trấn Chợ Rã",
+                "Thị trấn Chợ Rã",
                 "Xã Bành Trạch",
                 "Xã Phúc Lộc",
                 "Xã Hà Hiệu",
@@ -1869,7 +1869,7 @@
                 "Xã Đồng Phúc"
             ],
             "Huyện Ngân Sơn": [
-                "Thị Trấn Nà Phặc",
+                "Thị trấn Nà Phặc",
                 "Xã Thượng Ân",
                 "Xã Bằng Vân",
                 "Xã Cốc Đán",
@@ -1881,7 +1881,7 @@
                 "Xã Thuần Mang"
             ],
             "Huyện Bạch Thông": [
-                "Thị Trấn Phủ Thông",
+                "Thị trấn Phủ Thông",
                 "Xã Vi Hương",
                 "Xã Sĩ Bình",
                 "Xã Vũ Muộn",
@@ -1897,7 +1897,7 @@
                 "Xã Quang Thuận"
             ],
             "Huyện Chợ Đồn": [
-                "Thị Trấn Bằng Lũng",
+                "Thị trấn Bằng Lũng",
                 "Xã Xuân Lạc",
                 "Xã Nam Cường",
                 "Xã Đồng Lạc",
@@ -1919,7 +1919,7 @@
                 "Xã Yên Phong"
             ],
             "Huyện Chợ Mới": [
-                "Thị Trấn Đồng Tâm",
+                "Thị trấn Đồng Tâm",
                 "Xã Tân Sơn",
                 "Xã Thanh Vận",
                 "Xã Mai Lạp",
@@ -1940,7 +1940,7 @@
                 "Xã Lương Thượng",
                 "Xã Kim Hỷ",
                 "Xã Cường Lợi",
-                "Thị Trấn Yến Lạc",
+                "Thị trấn Yến Lạc",
                 "Xã Kim Lư",
                 "Xã Sơn Thành",
                 "Xã Văn Minh",
@@ -1976,7 +1976,7 @@
                 "Xã Phúc Yên",
                 "Xã Xuân Lập",
                 "Xã Khuôn Hà",
-                "Thị Trấn Lăng Can",
+                "Thị trấn Lăng Can",
                 "Xã Thượng Lâm",
                 "Xã Bình An",
                 "Xã Hồng Quang",
@@ -1985,7 +1985,7 @@
                 "Xã Minh Quang"
             ],
             "Huyện Na Hang": [
-                "Thị Trấn Na Hang",
+                "Thị trấn Na Hang",
                 "Xã Sinh Long",
                 "Xã Thượng Giáp",
                 "Xã Thượng Nông",
@@ -1999,7 +1999,7 @@
                 "Xã Thanh Tương"
             ],
             "Huyện Chiêm Hóa": [
-                "Thị Trấn Vĩnh Lộc",
+                "Thị trấn Vĩnh Lộc",
                 "Xã Trung Hà",
                 "Xã Tân Mỹ",
                 "Xã Hà Lang",
@@ -2025,7 +2025,7 @@
                 "Xã Bình Nhân"
             ],
             "Huyện Hàm Yên": [
-                "Thị Trấn Tân Yên",
+                "Thị trấn Tân Yên",
                 "Xã Yên Thuận",
                 "Xã Bạch Xa",
                 "Xã Minh Khương",
@@ -2059,7 +2059,7 @@
                 "Xã Tứ Quận",
                 "Xã Đạo Viện",
                 "Xã Tân Long",
-                "Thị Trấn Yên Sơn",
+                "Thị trấn Yên Sơn",
                 "Xã Kim Quan",
                 "Xã Lang Quán",
                 "Xã Phú Thịnh",
@@ -2075,7 +2075,7 @@
                 "Xã Đội Bình"
             ],
             "Huyện Sơn Dương": [
-                "Thị Trấn Sơn Dương",
+                "Thị trấn Sơn Dương",
                 "Xã Trung Yên",
                 "Xã Minh Thanh",
                 "Xã Tân Trào",
@@ -2129,7 +2129,7 @@
                 "Xã Cốc San"
             ],
             "Huyện Bát Xát": [
-                "Thị Trấn Bát Xát",
+                "Thị trấn Bát Xát",
                 "Xã A Mú Sung",
                 "Xã Nậm Chạc",
                 "Xã A Lù",
@@ -2155,7 +2155,7 @@
                 "Xã Pha Long",
                 "Xã Tả Ngải Chồ",
                 "Xã Tung Chung Phố",
-                "Thị Trấn Mường Khương",
+                "Thị trấn Mường Khương",
                 "Xã Dìn Chin",
                 "Xã Tả Gia Khâu",
                 "Xã Nậm Chảy",
@@ -2173,7 +2173,7 @@
                 "Xã Nàn Sán",
                 "Xã Thào Chư Phìn",
                 "Xã Bản Mế",
-                "Thị Trấn Si Ma Cai",
+                "Thị trấn Si Ma Cai",
                 "Xã Sán Chải",
                 "Xã Lùng Thẩn",
                 "Xã Cán Cấu",
@@ -2182,7 +2182,7 @@
                 "Xã Nàn Xín"
             ],
             "Huyện Bắc Hà": [
-                "Thị Trấn Bắc Hà",
+                "Thị trấn Bắc Hà",
                 "Xã Lùng Cải",
                 "Xã Lùng Phình",
                 "Xã Tả Van Chư",
@@ -2203,9 +2203,9 @@
                 "Xã Bản Cái"
             ],
             "Huyện Bảo Thắng": [
-                "Thị Trấn N.T Phong Hải",
-                "Thị Trấn Phố Lu",
-                "Thị Trấn Tằng Loỏng",
+                "Thị trấn N.T Phong Hải",
+                "Thị trấn Phố Lu",
+                "Thị trấn Tằng Loỏng",
                 "Xã Bản Phiệt",
                 "Xã Bản Cầm",
                 "Xã Thái Niên",
@@ -2219,7 +2219,7 @@
                 "Xã Phú Nhuận"
             ],
             "Huyện Bảo Yên": [
-                "Thị Trấn Phố Ràng",
+                "Thị trấn Phố Ràng",
                 "Xã Tân Tiến",
                 "Xã Nghĩa Đô",
                 "Xã Vĩnh Yên",
@@ -2256,7 +2256,7 @@
                 "Xã Liên Minh"
             ],
             "Huyện Văn Bàn": [
-                "Thị Trấn Khánh Yên",
+                "Thị trấn Khánh Yên",
                 "Xã Võ Lao",
                 "Xã Sơn Thuỷ",
                 "Xã Nậm Mả",
@@ -2328,7 +2328,7 @@
                 "Xã Mường Mươn"
             ],
             "Huyện Tủa Chùa": [
-                "Thị Trấn Tủa Chùa",
+                "Thị trấn Tủa Chùa",
                 "Xã Huổi Só",
                 "Xã Xín Chải",
                 "Xã Tả Sìn Thàng",
@@ -2342,7 +2342,7 @@
                 "Xã Mường Báng"
             ],
             "Huyện Tuần Giáo": [
-                "Thị Trấn Tuần Giáo",
+                "Thị trấn Tuần Giáo",
                 "Xã Phình Sáng",
                 "Xã Rạng Đông",
                 "Xã Mùn Chung",
@@ -2386,7 +2386,7 @@
                 "Xã Phu Luông"
             ],
             "Huyện Điện Biên Đông": [
-                "Thị Trấn Điện Biên Đông",
+                "Thị trấn Điện Biên Đông",
                 "Xã Na Son",
                 "Xã Phì Nhừ",
                 "Xã Chiềng Sơ",
@@ -2402,7 +2402,7 @@
                 "Xã Háng Lìa"
             ],
             "Huyện Mường Ảng": [
-                "Thị Trấn Mường Ảng",
+                "Thị trấn Mường Ảng",
                 "Xã Mường Đăng",
                 "Xã Ngối Cáy",
                 "Xã Ẳng Tở",
@@ -2442,7 +2442,7 @@
                 "Xã San Thàng"
             ],
             "Huyện Tam Đường": [
-                "Thị Trấn Tam Đường",
+                "Thị trấn Tam Đường",
                 "Xã Thèn Sin",
                 "Xã Tả Lèng",
                 "Xã Giang Ma",
@@ -2457,11 +2457,11 @@
                 "Xã Khun Há"
             ],
             "Huyện Mường Tè": [
-                "Thị Trấn Mường Tè",
+                "Thị trấn Mường Tè",
                 "Xã Thu Lũm",
                 "Xã Ka Lăng",
                 "Xã Tá Bạ",
-                "Xã Pa Ủ",
+                "Xã Pa ủ",
                 "Xã Mường Tè",
                 "Xã Pa Vệ Sử",
                 "Xã Mù Cả",
@@ -2473,7 +2473,7 @@
                 "Xã Kan Hồ"
             ],
             "Huyện Sìn Hồ": [
-                "Thị Trấn Sìn Hồ",
+                "Thị trấn Sìn Hồ",
                 "Xã Chăn Nưa",
                 "Xã Pa Tần",
                 "Xã Phìn Hồ",
@@ -2499,7 +2499,7 @@
             "Huyện Phong Thổ": [
                 "Xã Lả Nhì Thàng",
                 "Xã Huổi Luông",
-                "Thị Trấn Phong Thổ",
+                "Thị trấn Phong Thổ",
                 "Xã Sì Lở Lầu",
                 "Xã Mồ Sì San",
                 "Xã Pa Vây Sử",
@@ -2516,7 +2516,7 @@
                 "Xã Sin Suối Hồ"
             ],
             "Huyện Than Uyên": [
-                "Thị Trấn Than Uyên",
+                "Thị trấn Than Uyên",
                 "Xã Phúc Than",
                 "Xã Mường Than",
                 "Xã Mường Mít",
@@ -2530,7 +2530,7 @@
                 "Xã Khoen On"
             ],
             "Huyện Tân Uyên": [
-                "Thị Trấn Tân Uyên",
+                "Thị trấn Tân Uyên",
                 "Xã Mường Khoa",
                 "Xã Phúc Khoa",
                 "Xã Thân Thuộc",
@@ -2542,7 +2542,7 @@
                 "Xã Tà Mít"
             ],
             "Huyện Nậm Nhùn": [
-                "Thị Trấn Nậm Nhùn",
+                "Thị trấn Nậm Nhùn",
                 "Xã Hua Bun",
                 "Xã Mường Mô",
                 "Xã Nậm Chà",
@@ -2580,18 +2580,18 @@
                 "Xã Mường Giàng",
                 "Xã Chiềng Bằng",
                 "Xã Mường Sại",
-                "Xã Nậm Ét",
+                "Xã Nậm ét",
                 "Xã Chiềng Khoang"
             ],
             "Huyện Thuận Châu": [
-                "Thị Trấn Thuận Châu",
+                "Thị trấn Thuận Châu",
                 "Xã Phổng Lái",
-                "Xã Mường É",
+                "Xã Mường é",
                 "Xã Chiềng Pha",
                 "Xã Chiềng La",
                 "Xã Chiềng Ngàm",
                 "Xã Liệp Tè",
-                "Xã É Tòng",
+                "Xã é Tòng",
                 "Xã Phổng Lập",
                 "Xã Phổng Lăng",
                 "Xã Chiềng Ly",
@@ -2615,7 +2615,7 @@
                 "Xã Bản Lầm"
             ],
             "Huyện Mường La": [
-                "Thị Trấn Ít Ong",
+                "Thị trấn Ít Ong",
                 "Xã Nậm Giôn",
                 "Xã Chiềng Lao",
                 "Xã Hua Trai",
@@ -2633,7 +2633,7 @@
                 "Xã Mường Chùm"
             ],
             "Huyện Bắc Yên": [
-                "Thị Trấn Bắc Yên",
+                "Thị trấn Bắc Yên",
                 "Xã Phiêng Ban",
                 "Xã Hang Chú",
                 "Xã Xím Vàng",
@@ -2651,7 +2651,7 @@
                 "Xã Chiềng Sại"
             ],
             "Huyện Phù Yên": [
-                "Thị Trấn Phù Yên",
+                "Thị trấn Phù Yên",
                 "Xã Suối Tọ",
                 "Xã Mường Thải",
                 "Xã Mường Cơi",
@@ -2680,8 +2680,8 @@
                 "Xã Bắc Phong"
             ],
             "Huyện Mộc Châu": [
-                "Thị Trấn Mộc Châu",
-                "Thị Trấn Nt Mộc Châu",
+                "Thị trấn Mộc Châu",
+                "Thị trấn NT Mộc Châu",
                 "Xã Chiềng Sơn",
                 "Xã Tân Hợp",
                 "Xã Qui Hướng",
@@ -2697,7 +2697,7 @@
                 "Xã Lóng Sập"
             ],
             "Huyện Yên Châu": [
-                "Thị Trấn Yên Châu",
+                "Thị trấn Yên Châu",
                 "Xã Chiềng Đông",
                 "Xã Sập Vạt",
                 "Xã Chiềng Sàng",
@@ -2714,7 +2714,7 @@
                 "Xã Chiềng Tương"
             ],
             "Huyện Mai Sơn": [
-                "Thị Trấn Hát Lót",
+                "Thị trấn Hát Lót",
                 "Xã Chiềng Sung",
                 "Xã Mường Bằng",
                 "Xã Chiềng Chăn",
@@ -2738,7 +2738,7 @@
                 "Xã Tà Hộc"
             ],
             "Huyện Sông Mã": [
-                "Thị Trấn Sông Mã",
+                "Thị trấn Sông Mã",
                 "Xã Bó Sinh",
                 "Xã Pú Pẩu",
                 "Xã Chiềng Phung",
@@ -2820,7 +2820,7 @@
                 "Xã Thạch Lương"
             ],
             "Huyện Lục Yên": [
-                "Thị Trấn Yên Thế",
+                "Thị trấn Yên Thế",
                 "Xã Tân Phượng",
                 "Xã Lâm Thượng",
                 "Xã Khánh Thiện",
@@ -2846,7 +2846,7 @@
                 "Xã Trung Tâm"
             ],
             "Huyện Văn Yên": [
-                "Thị Trấn Mậu A",
+                "Thị trấn Mậu A",
                 "Xã Lang Thíp",
                 "Xã Lâm Giang",
                 "Xã Châu Quế Thượng",
@@ -2873,7 +2873,7 @@
                 "Xã Nà Hẩu"
             ],
             "Huyện Mù Căng Chải": [
-                "Thị Trấn Mù Căng Chải",
+                "Thị trấn Mù Căng Chải",
                 "Xã Hồ Bốn",
                 "Xã Nậm Có",
                 "Xã Khao Mang",
@@ -2889,7 +2889,7 @@
                 "Xã Nậm Khắt"
             ],
             "Huyện Trấn Yên": [
-                "Thị Trấn Cổ Phúc",
+                "Thị trấn Cổ Phúc",
                 "Xã Tân Đồng",
                 "Xã Báo Đáp",
                 "Xã Đào Thịnh",
@@ -2912,7 +2912,7 @@
                 "Xã Vân Hội"
             ],
             "Huyện Trạm Tấu": [
-                "Thị Trấn Trạm Tấu",
+                "Thị trấn Trạm Tấu",
                 "Xã Túc Đán",
                 "Xã Pá Lau",
                 "Xã Xà Hồ",
@@ -2926,8 +2926,8 @@
                 "Xã Hát Lìu"
             ],
             "Huyện Văn Chấn": [
-                "Thị Trấn Nt Liên Sơn",
-                "Thị Trấn Nt Trần Phú",
+                "Thị trấn NT Liên Sơn",
+                "Thị trấn NT Trần Phú",
                 "Xã Tú Lệ",
                 "Xã Nậm Búng",
                 "Xã Gia Hội",
@@ -2940,7 +2940,7 @@
                 "Xã Suối Giàng",
                 "Xã Nghĩa Sơn",
                 "Xã Suối Bu",
-                "Thị Trấn Sơn Thịnh",
+                "Thị trấn Sơn Thịnh",
                 "Xã Đại Lịch",
                 "Xã Đồng Khê",
                 "Xã Cát Thịnh",
@@ -2952,8 +2952,8 @@
                 "Xã Nghĩa Tâm"
             ],
             "Huyện Yên Bình": [
-                "Thị Trấn Yên Bình",
-                "Thị Trấn Thác Bà",
+                "Thị trấn Yên Bình",
+                "Thị trấn Thác Bà",
                 "Xã Xuân Long",
                 "Xã Cảm Nhân",
                 "Xã Ngọc Chấn",
@@ -3001,7 +3001,7 @@
                 "Xã Độc Lập"
             ],
             "Huyện Đà Bắc": [
-                "Thị Trấn Đà Bắc",
+                "Thị trấn Đà Bắc",
                 "Xã Nánh Nghê",
                 "Xã Giáp Đắt",
                 "Xã Mường Chiềng",
@@ -3020,7 +3020,7 @@
                 "Xã Vầy Nưa"
             ],
             "Huyện Lương Sơn": [
-                "Thị Trấn Lương Sơn",
+                "Thị trấn Lương Sơn",
                 "Xã Lâm Sơn",
                 "Xã Hòa Sơn",
                 "Xã Tân Vinh",
@@ -3033,7 +3033,7 @@
                 "Xã Thanh Cao"
             ],
             "Huyện Kim Bôi": [
-                "Thị Trấn Bo",
+                "Thị trấn Bo",
                 "Xã Đú Sáng",
                 "Xã Hùng Sơn",
                 "Xã Bình Sơn",
@@ -3052,7 +3052,7 @@
                 "Xã Nuông Dăm"
             ],
             "Huyện Cao Phong": [
-                "Thị Trấn Cao Phong",
+                "Thị trấn Cao Phong",
                 "Xã Bình Thanh",
                 "Xã Thung Nai",
                 "Xã Bắc Phong",
@@ -3064,7 +3064,7 @@
                 "Xã Thạch Yên"
             ],
             "Huyện Tân Lạc": [
-                "Thị Trấn Mãn Đức",
+                "Thị trấn Mãn Đức",
                 "Xã Suối Hoa",
                 "Xã Phú Vinh",
                 "Xã Phú Cường",
@@ -3083,7 +3083,7 @@
             ],
             "Huyện Mai Châu": [
                 "Xã Tân Thành",
-                "Thị Trấn Mai Châu",
+                "Thị trấn Mai Châu",
                 "Xã Sơn Thủy",
                 "Xã Pà Cò",
                 "Xã Hang Kia",
@@ -3100,7 +3100,7 @@
                 "Xã Vạn Mai"
             ],
             "Huyện Lạc Sơn": [
-                "Thị Trấn Vụ Bản",
+                "Thị trấn Vụ Bản",
                 "Xã Quý Hòa",
                 "Xã Miền Đồi",
                 "Xã Mỹ Thành",
@@ -3126,7 +3126,7 @@
                 "Xã Ngọc Lâu"
             ],
             "Huyện Yên Thủy": [
-                "Thị Trấn Hàng Trạm",
+                "Thị trấn Hàng Trạm",
                 "Xã Lạc Sỹ",
                 "Xã Lạc Lương",
                 "Xã Bảo Hiệu",
@@ -3139,8 +3139,8 @@
                 "Xã Ngọc Lương"
             ],
             "Huyện Lạc Thủy": [
-                "Thị Trấn Ba Hàng Đồi",
-                "Thị Trấn Chi Nê",
+                "Thị trấn Ba Hàng Đồi",
+                "Thị trấn Chi Nê",
                 "Xã Phú Nghĩa",
                 "Xã Phú Thành",
                 "Xã Hưng Thi",
@@ -3199,7 +3199,7 @@
                 "Xã Bá Xuyên"
             ],
             "Huyện Định Hóa": [
-                "Thị Trấn Chợ Chu",
+                "Thị trấn Chợ Chu",
                 "Xã Linh Thông",
                 "Xã Lam Vỹ",
                 "Xã Quy Kỳ",
@@ -3224,8 +3224,8 @@
                 "Xã Bình Thành"
             ],
             "Huyện Phú Lương": [
-                "Thị Trấn Giang Tiên",
-                "Thị Trấn Đu",
+                "Thị trấn Giang Tiên",
+                "Thị trấn Đu",
                 "Xã Yên Ninh",
                 "Xã Yên Trạch",
                 "Xã Yên Đổ",
@@ -3241,8 +3241,8 @@
                 "Xã Cổ Lũng"
             ],
             "Huyện Đồng Hỷ": [
-                "Thị Trấn Sông Cầu",
-                "Thị Trấn Trại Cau",
+                "Thị trấn Sông Cầu",
+                "Thị trấn Trại Cau",
                 "Xã Văn Lăng",
                 "Xã Tân Long",
                 "Xã Hòa Bình",
@@ -3258,7 +3258,7 @@
                 "Xã Nam Hòa"
             ],
             "Huyện Võ Nhai": [
-                "Thị Trấn Đình Cả",
+                "Thị trấn Đình Cả",
                 "Xã Sảng Mộc",
                 "Xã Nghinh Tường",
                 "Xã Thần Xa",
@@ -3275,8 +3275,8 @@
                 "Xã Bình Long"
             ],
             "Huyện Đại Từ": [
-                "Thị Trấn Hùng Sơn",
-                "Thị Trấn Quân Chu",
+                "Thị trấn Hùng Sơn",
+                "Thị trấn Quân Chu",
                 "Xã Phúc Lương",
                 "Xã Minh Tiến",
                 "Xã Yên Lãng",
@@ -3327,7 +3327,7 @@
                 "Xã Thuận Thành"
             ],
             "Huyện Phú Bình": [
-                "Thị Trấn Hương Sơn",
+                "Thị trấn Hương Sơn",
                 "Xã Bàn Đạt",
                 "Xã Tân Khánh",
                 "Xã Tân Kim",
@@ -3361,7 +3361,7 @@
                 "Xã Mai Pha"
             ],
             "Huyện Tràng Định": [
-                "Thị Trấn Thất Khê",
+                "Thị trấn Thất Khê",
                 "Xã Khánh Long",
                 "Xã Đoàn Kết",
                 "Xã Quốc Khánh",
@@ -3400,13 +3400,13 @@
                 "Xã Hòa Bình",
                 "Xã Mông Ân",
                 "Xã Tân Hòa",
-                "Thị Trấn Bình Gia",
+                "Thị trấn Bình Gia",
                 "Xã Hồng Thái",
                 "Xã Bình La",
                 "Xã Tân Văn"
             ],
             "Huyện Văn Lãng": [
-                "Thị Trấn Na Sầm",
+                "Thị trấn Na Sầm",
                 "Xã Trùng Khánh",
                 "Xã Bắc La",
                 "Xã Thụy Hùng",
@@ -3425,8 +3425,8 @@
                 "Xã Nhạc Kỳ"
             ],
             "Huyện Cao Lộc": [
-                "Thị Trấn Đồng Đăng",
-                "Thị Trấn Cao Lộc",
+                "Thị trấn Đồng Đăng",
+                "Thị trấn Cao Lộc",
                 "Xã Bảo Lâm",
                 "Xã Thanh Lòa",
                 "Xã Cao Lâu",
@@ -3449,7 +3449,7 @@
                 "Xã Tân Thành"
             ],
             "Huyện Văn Quan": [
-                "Thị Trấn Văn Quan",
+                "Thị trấn Văn Quan",
                 "Xã Trấn Ninh",
                 "Xã Liên Hội",
                 "Xã Hòa Bình",
@@ -3468,10 +3468,10 @@
                 "Xã Hữu Lễ"
             ],
             "Huyện Bắc Sơn": [
-                "Thị Trấn Bắc Sơn",
+                "Thị trấn Bắc Sơn",
                 "Xã Long Đống",
                 "Xã Vạn Thủy",
-                "Xã Đồng Ý",
+                "Xã Đồng ý",
                 "Xã Tân Tri",
                 "Xã Bắc Quỳnh",
                 "Xã Hưng Vũ",
@@ -3488,7 +3488,7 @@
                 "Xã Nhất Tiến"
             ],
             "Huyện Hữu Lũng": [
-                "Thị Trấn Hữu Lũng",
+                "Thị trấn Hữu Lũng",
                 "Xã Hữu Liên",
                 "Xã Yên Bình",
                 "Xã Quyết Thắng",
@@ -3514,8 +3514,8 @@
                 "Xã Hòa Thắng"
             ],
             "Huyện Chi Lăng": [
-                "Thị Trấn Đồng Mỏ",
-                "Thị Trấn Chi Lăng",
+                "Thị trấn Đồng Mỏ",
+                "Thị trấn Chi Lăng",
                 "Xã Vân An",
                 "Xã Vân Thủy",
                 "Xã Gia Lộc",
@@ -3536,8 +3536,8 @@
                 "Xã Chi Lăng"
             ],
             "Huyện Lộc Bình": [
-                "Thị Trấn Na Dương",
-                "Thị Trấn Lộc Bình",
+                "Thị trấn Na Dương",
+                "Thị trấn Lộc Bình",
                 "Xã Mẫu Sơn",
                 "Xã Yên Khoái",
                 "Xã Khánh Xuân",
@@ -3559,8 +3559,8 @@
                 "Xã Ái Quốc"
             ],
             "Huyện Đình Lập": [
-                "Thị Trấn Đình Lập",
-                "Thị Trấn Nt Thái Bình",
+                "Thị trấn Đình Lập",
+                "Thị trấn NT Thái Bình",
                 "Xã Bắc Xa",
                 "Xã Bính Xá",
                 "Xã Kiên Mộc",
@@ -3659,7 +3659,7 @@
                 "Phường Phương Nam"
             ],
             "Huyện Bình Liêu": [
-                "Thị Trấn Bình Liêu",
+                "Thị trấn Bình Liêu",
                 "Xã Hoành Mô",
                 "Xã Đồng Tâm",
                 "Xã Đồng Văn",
@@ -3668,7 +3668,7 @@
                 "Xã Húc Động"
             ],
             "Huyện Tiên Yên": [
-                "Thị Trấn Tiên Yên",
+                "Thị trấn Tiên Yên",
                 "Xã Hà Lâu",
                 "Xã Đại Dực",
                 "Xã Phong Dụ",
@@ -3681,7 +3681,7 @@
                 "Xã Đồng Rui"
             ],
             "Huyện Đầm Hà": [
-                "Thị Trấn Đầm Hà",
+                "Thị trấn Đầm Hà",
                 "Xã Quảng Lâm",
                 "Xã Quảng An",
                 "Xã Tân Bình",
@@ -3692,7 +3692,7 @@
                 "Xã Đại Bình"
             ],
             "Huyện Hải Hà": [
-                "Thị Trấn Quảng Hà",
+                "Thị trấn Quảng Hà",
                 "Xã Quảng Đức",
                 "Xã Quảng Sơn",
                 "Xã Quảng Thành",
@@ -3705,7 +3705,7 @@
                 "Xã Cái Chiên"
             ],
             "Huyện Ba Chẽ": [
-                "Thị Trấn Ba Chẽ",
+                "Thị trấn Ba Chẽ",
                 "Xã Thanh Sơn",
                 "Xã Thanh Lâm",
                 "Xã Đạp Thanh",
@@ -3715,7 +3715,7 @@
                 "Xã Minh Cầm"
             ],
             "Huyện Vân Đồn": [
-                "Thị Trấn Cái Rồng",
+                "Thị trấn Cái Rồng",
                 "Xã Đài Xuyên",
                 "Xã Bình Dân",
                 "Xã Vạn Yên",
@@ -3773,7 +3773,7 @@
                 "Xã Tiền Phong"
             ],
             "Huyện Cô Tô": [
-                "Thị Trấn Cô Tô",
+                "Thị trấn Cô Tô",
                 "Xã Đồng Tiến",
                 "Xã Thanh Lân"
             ]
@@ -3814,13 +3814,13 @@
                 "Xã Hương Vĩ",
                 "Xã Đồng Kỳ",
                 "Xã An Thượng",
-                "Thị Trấn Phồn Xương",
+                "Thị trấn Phồn Xương",
                 "Xã Tân Sỏi",
-                "Thị Trấn Bố Hạ"
+                "Thị trấn Bố Hạ"
             ],
             "Huyện Tân Yên": [
                 "Xã Lan Giới",
-                "Thị Trấn Nhã Nam",
+                "Thị trấn Nhã Nam",
                 "Xã Tân Trung",
                 "Xã Đại Hóa",
                 "Xã Quang Tiến",
@@ -3831,7 +3831,7 @@
                 "Xã Hợp Đức",
                 "Xã Lam Cốt",
                 "Xã Cao Xá",
-                "Thị Trấn Cao Thượng",
+                "Thị trấn Cao Thượng",
                 "Xã Việt Ngọc",
                 "Xã Song Vân",
                 "Xã Ngọc Châu",
@@ -3843,7 +3843,7 @@
                 "Xã Quế Nham"
             ],
             "Huyện Lạng Giang": [
-                "Thị Trấn Vôi",
+                "Thị trấn Vôi",
                 "Xã Nghĩa Hòa",
                 "Xã Nghĩa Hưng",
                 "Xã Quang Thịnh",
@@ -3851,7 +3851,7 @@
                 "Xã Đào Mỹ",
                 "Xã Tiên Lục",
                 "Xã An Hà",
-                "Thị Trấn Kép",
+                "Thị trấn Kép",
                 "Xã Mỹ Hà",
                 "Xã Hương Lạc",
                 "Xã Dương Đức",
@@ -3866,7 +3866,7 @@
                 "Xã Thái Đào"
             ],
             "Huyện Lục Nam": [
-                "Thị Trấn Đồi Ngô",
+                "Thị trấn Đồi Ngô",
                 "Xã Đông Hưng",
                 "Xã Đông Phú",
                 "Xã Tam Dị",
@@ -3893,7 +3893,7 @@
                 "Xã Đan Hội"
             ],
             "Huyện Lục Ngạn": [
-                "Thị Trấn Chũ",
+                "Thị trấn Chũ",
                 "Xã Cấm Sơn",
                 "Xã Tân Sơn",
                 "Xã Phong Minh",
@@ -3924,8 +3924,8 @@
                 "Xã Phượng Sơn"
             ],
             "Huyện Sơn Động": [
-                "Thị Trấn An Châu",
-                "Thị Trấn Tây Yên Tử",
+                "Thị trấn An Châu",
+                "Thị trấn Tây Yên Tử",
                 "Xã Vân Sơn",
                 "Xã Hữu Sản",
                 "Xã Đại Sơn",
@@ -3943,8 +3943,8 @@
                 "Xã Thanh Luận"
             ],
             "Huyện Yên Dũng": [
-                "Thị Trấn Nham Biền",
-                "Thị Trấn Tân An",
+                "Thị trấn Nham Biền",
+                "Thị trấn Tân An",
                 "Xã Lão Hộ",
                 "Xã Hương Gián",
                 "Xã Quỳnh Sơn",
@@ -3969,13 +3969,13 @@
                 "Xã Minh Đức",
                 "Xã Hương Mai",
                 "Xã Tự Lạn",
-                "Thị Trấn Bích Động",
+                "Thị trấn Bích Động",
                 "Xã Trung Sơn",
                 "Xã Hồng Thái",
                 "Xã Tiên Sơn",
                 "Xã Tăng Tiến",
                 "Xã Quảng Minh",
-                "Thị Trấn Nếnh",
+                "Thị trấn Nếnh",
                 "Xã Ninh Sơn",
                 "Xã Vân Trung",
                 "Xã Vân Hà",
@@ -3991,7 +3991,7 @@
                 "Xã Ngọc Sơn",
                 "Xã Thái Sơn",
                 "Xã Hòa Sơn",
-                "Thị Trấn Thắng",
+                "Thị trấn Thắng",
                 "Xã Quang Minh",
                 "Xã Lương Phong",
                 "Xã Hùng Sơn",
@@ -4046,7 +4046,7 @@
                 "Phường Thanh Vinh"
             ],
             "Huyện Đoan Hùng": [
-                "Thị Trấn Đoan Hùng",
+                "Thị trấn Đoan Hùng",
                 "Xã Hùng Xuyên",
                 "Xã Bằng Luân",
                 "Xã Vân Du",
@@ -4070,7 +4070,7 @@
                 "Xã Ca Đình"
             ],
             "Huyện Hạ Hoà": [
-                "Thị Trấn Hạ Hoà",
+                "Thị trấn Hạ Hoà",
                 "Xã Đại Phạm",
                 "Xã Đan Thượng",
                 "Xã Hà Lương",
@@ -4092,7 +4092,7 @@
                 "Xã Vĩnh Chân"
             ],
             "Huyện Thanh Ba": [
-                "Thị Trấn Thanh Ba",
+                "Thị trấn Thanh Ba",
                 "Xã Vân Lĩnh",
                 "Xã Đông Lĩnh",
                 "Xã Đại An",
@@ -4113,7 +4113,7 @@
                 "Xã Lương Lỗ"
             ],
             "Huyện Phù Ninh": [
-                "Thị Trấn Phong Châu",
+                "Thị trấn Phong Châu",
                 "Xã Phú Mỹ",
                 "Xã Lệ Mỹ",
                 "Xã Liên Hoa",
@@ -4132,7 +4132,7 @@
                 "Xã Phù Ninh"
             ],
             "Huyện Yên Lập": [
-                "Thị Trấn Yên Lập",
+                "Thị trấn Yên Lập",
                 "Xã Mỹ Lung",
                 "Xã Mỹ Lương",
                 "Xã Lương Sơn",
@@ -4151,7 +4151,7 @@
                 "Xã Ngọc Đồng"
             ],
             "Huyện Cẩm Khê": [
-                "Thị Trấn Cẩm Khê",
+                "Thị trấn Cẩm Khê",
                 "Xã Tiên Lương",
                 "Xã Tuy Lộc",
                 "Xã Ngô Xá",
@@ -4177,7 +4177,7 @@
                 "Xã Đồng Lương"
             ],
             "Huyện Tam Nông": [
-                "Thị Trấn Hưng Hoá",
+                "Thị trấn Hưng Hoá",
                 "Xã Hiền Quan",
                 "Xã Bắc Sơn",
                 "Xã Thanh Uyên",
@@ -4191,9 +4191,9 @@
                 "Xã Dân Quyền"
             ],
             "Huyện Lâm Thao": [
-                "Thị Trấn Lâm Thao",
+                "Thị trấn Lâm Thao",
                 "Xã Tiên Kiên",
-                "Thị Trấn Hùng Sơn",
+                "Thị trấn Hùng Sơn",
                 "Xã Xuân Lũng",
                 "Xã Xuân Huy",
                 "Xã Thạch Sơn",
@@ -4205,7 +4205,7 @@
                 "Xã Bản Nguyên"
             ],
             "Huyện Thanh Sơn": [
-                "Thị Trấn Thanh Sơn",
+                "Thị trấn Thanh Sơn",
                 "Xã Sơn Hùng",
                 "Xã Địch Quả",
                 "Xã Giáp Lai",
@@ -4234,7 +4234,7 @@
                 "Xã Thạch Đồng",
                 "Xã Xuân Lộc",
                 "Xã Tân Phương",
-                "Thị Trấn Thanh Thủy",
+                "Thị trấn Thanh Thủy",
                 "Xã Sơn Thủy",
                 "Xã Bảo Yên",
                 "Xã Đoan Hạ",
@@ -4287,13 +4287,13 @@
                 "Phường Tiền Châu"
             ],
             "Huyện Lập Thạch": [
-                "Thị Trấn Lập Thạch",
+                "Thị trấn Lập Thạch",
                 "Xã Quang Sơn",
                 "Xã Ngọc Mỹ",
                 "Xã Hợp Lý",
                 "Xã Bắc Bình",
                 "Xã Thái Hòa",
-                "Thị Trấn Hoa Sơn",
+                "Thị trấn Hoa Sơn",
                 "Xã Liễn Sơn",
                 "Xã Xuân Hòa",
                 "Xã Vân Trục",
@@ -4309,7 +4309,7 @@
                 "Xã Sơn Đông"
             ],
             "Huyện Tam Dương": [
-                "Thị Trấn Hợp Hòa",
+                "Thị trấn Hợp Hòa",
                 "Xã Hoàng Hoa",
                 "Xã Đồng Tĩnh",
                 "Xã Kim Long",
@@ -4324,33 +4324,33 @@
                 "Xã Hợp Thịnh"
             ],
             "Huyện Tam Đảo": [
-                "Thị Trấn Tam Đảo",
-                "Thị Trấn Hợp Châu",
+                "Thị trấn Tam Đảo",
+                "Thị trấn Hợp Châu",
                 "Xã Đạo Trù",
                 "Xã Yên Dương",
                 "Xã Bồ Lý",
-                "Thị Trấn Đại Đình",
+                "Thị trấn Đại Đình",
                 "Xã Tam Quan",
                 "Xã Hồ Sơn",
                 "Xã Minh Quang"
             ],
             "Huyện Bình Xuyên": [
-                "Thị Trấn Hương Canh",
-                "Thị Trấn Gia Khánh",
+                "Thị trấn Hương Canh",
+                "Thị trấn Gia Khánh",
                 "Xã Trung Mỹ",
-                "Thị Trấn Bá Hiến",
+                "Thị trấn Bá Hiến",
                 "Xã Thiện Kế",
                 "Xã Hương Sơn",
                 "Xã Tam Hợp",
                 "Xã Quất Lưu",
                 "Xã Sơn Lôi",
-                "Thị Trấn Đạo Đức",
+                "Thị trấn Đạo Đức",
                 "Xã Tân Phong",
-                "Thị Trấn Thanh Lãng",
+                "Thị trấn Thanh Lãng",
                 "Xã Phú Xuân"
             ],
             "Huyện Yên Lạc": [
-                "Thị Trấn Yên Lạc",
+                "Thị trấn Yên Lạc",
                 "Xã Đồng Cương",
                 "Xã Đồng Văn",
                 "Xã Bình Định",
@@ -4369,7 +4369,7 @@
                 "Xã Trung Hà"
             ],
             "Huyện Vĩnh Tường": [
-                "Thị Trấn Vĩnh Tường",
+                "Thị trấn Vĩnh Tường",
                 "Xã Kim Xá",
                 "Xã Yên Bình",
                 "Xã Chấn Hưng",
@@ -4391,7 +4391,7 @@
                 "Xã Tuân Chính",
                 "Xã Vân Xuân",
                 "Xã Tam Phúc",
-                "Thị Trấn Tứ Trưng",
+                "Thị trấn Tứ Trưng",
                 "Xã Ngũ Kiên",
                 "Xã An Tường",
                 "Xã Vĩnh Thịnh",
@@ -4409,7 +4409,7 @@
                 "Xã Phương Khoan",
                 "Xã Tân Lập",
                 "Xã Nhạo Sơn",
-                "Thị Trấn Tam Sơn",
+                "Thị trấn Tam Sơn",
                 "Xã Như Thụy",
                 "Xã Yên Thạch",
                 "Xã Đồng Thịnh",
@@ -4441,7 +4441,7 @@
                 "Phường Hạp Lĩnh"
             ],
             "Huyện Yên Phong": [
-                "Thị Trấn Chờ",
+                "Thị trấn Chờ",
                 "Xã Dũng Liệt",
                 "Xã Tam Đa",
                 "Xã Tam Giang",
@@ -4457,7 +4457,7 @@
                 "Xã Đông Thọ"
             ],
             "Huyện Quế Võ": [
-                "Thị Trấn Phố Mới",
+                "Thị trấn Phố Mới",
                 "Xã Việt Thống",
                 "Xã Đại Xuân",
                 "Xã Nhân Hòa",
@@ -4480,7 +4480,7 @@
                 "Xã Hán Quảng"
             ],
             "Huyện Tiên Du": [
-                "Thị Trấn Lim",
+                "Thị trấn Lim",
                 "Xã Phú Lâm",
                 "Xã Nội Duệ",
                 "Xã Liên Bão",
@@ -4510,7 +4510,7 @@
                 "Phường Phù Chẩn"
             ],
             "Huyện Thuận Thành": [
-                "Thị Trấn Hồ",
+                "Thị trấn Hồ",
                 "Xã Hoài Thượng",
                 "Xã Đại Đồng Thành",
                 "Xã Mão Điền",
@@ -4530,7 +4530,7 @@
                 "Xã Song Liễu"
             ],
             "Huyện Gia Bình": [
-                "Thị Trấn Gia Bình",
+                "Thị trấn Gia Bình",
                 "Xã Vạn Ninh",
                 "Xã Thái Bảo",
                 "Xã Giang Sơn",
@@ -4546,7 +4546,7 @@
                 "Xã Quỳnh Phú"
             ],
             "Huyện Lương Tài": [
-                "Thị Trấn Thứa",
+                "Thị trấn Thứa",
                 "Xã An Thịnh",
                 "Xã Trung Kênh",
                 "Xã Phú Hòa",
@@ -4612,7 +4612,7 @@
                 "Phường Tân Dân"
             ],
             "Huyện Nam Sách": [
-                "Thị Trấn Nam Sách",
+                "Thị trấn Nam Sách",
                 "Xã Nam Hưng",
                 "Xã Nam Tân",
                 "Xã Hợp Tiến",
@@ -4658,7 +4658,7 @@
                 "Xã Minh Hòa"
             ],
             "Huyện Kim Thành": [
-                "Thị Trấn Phú Thái",
+                "Thị trấn Phú Thái",
                 "Xã Lai Vu",
                 "Xã Cộng Hòa",
                 "Xã Thượng Vũ",
@@ -4678,7 +4678,7 @@
                 "Xã Đại Đức"
             ],
             "Huyện Thanh Hà": [
-                "Thị Trấn Thanh Hà",
+                "Thị trấn Thanh Hà",
                 "Xã Hồng Lạc",
                 "Xã Việt Hồng",
                 "Xã Tân Việt",
@@ -4700,8 +4700,8 @@
                 "Xã Vĩnh Lập"
             ],
             "Huyện Cẩm Giàng": [
-                "Thị Trấn Cẩm Giang",
-                "Thị Trấn Lai Cách",
+                "Thị trấn Cẩm Giang",
+                "Thị trấn Lai Cách",
                 "Xã Cẩm Hưng",
                 "Xã Cẩm Hoàng",
                 "Xã Cẩm Văn",
@@ -4719,7 +4719,7 @@
                 "Xã Cẩm Đoài"
             ],
             "Huyện Bình Giang": [
-                "Thị Trấn Kẻ Sặt",
+                "Thị trấn Kẻ Sặt",
                 "Xã Vĩnh Hưng",
                 "Xã Hùng Thắng",
                 "Xã Vĩnh Hồng",
@@ -4737,7 +4737,7 @@
                 "Xã Bình Xuyên"
             ],
             "Huyện Gia Lộc": [
-                "Thị Trấn Gia Lộc",
+                "Thị trấn Gia Lộc",
                 "Xã Thống Nhất",
                 "Xã Yết Kiêu",
                 "Xã Gia Tân",
@@ -4757,7 +4757,7 @@
                 "Xã Đức Xương"
             ],
             "Huyện Tứ Kỳ": [
-                "Thị Trấn Tứ Kỳ",
+                "Thị trấn Tứ Kỳ",
                 "Xã Đại Sơn",
                 "Xã Hưng Đạo",
                 "Xã Ngọc Kỳ",
@@ -4782,7 +4782,7 @@
                 "Xã Hà Thanh"
             ],
             "Huyện Ninh Giang": [
-                "Thị Trấn Ninh Giang",
+                "Thị trấn Ninh Giang",
                 "Xã Ứng Hoè",
                 "Xã Nghĩa An",
                 "Xã Hồng Đức",
@@ -4804,7 +4804,7 @@
                 "Xã Hưng Long"
             ],
             "Huyện Thanh Miện": [
-                "Thị Trấn Thanh Miện",
+                "Thị trấn Thanh Miện",
                 "Xã Thanh Tùng",
                 "Xã Phạm Kha",
                 "Xã Ngô Quyền",
@@ -4844,7 +4844,7 @@
                 "Xã Hoàng Hanh"
             ],
             "Huyện Văn Lâm": [
-                "Thị Trấn Như Quỳnh",
+                "Thị trấn Như Quỳnh",
                 "Xã Lạc Đạo",
                 "Xã Chỉ Đạo",
                 "Xã Đại Đồng",
@@ -4857,7 +4857,7 @@
                 "Xã Lạc Hồng"
             ],
             "Huyện Văn Giang": [
-                "Thị Trấn Văn Giang",
+                "Thị trấn Văn Giang",
                 "Xã Xuân Quan",
                 "Xã Cửu Cao",
                 "Xã Phụng Công",
@@ -4870,7 +4870,7 @@
                 "Xã Mễ Sở"
             ],
             "Huyện Yên Mỹ": [
-                "Thị Trấn Yên Mỹ",
+                "Thị trấn Yên Mỹ",
                 "Xã Giai Phạm",
                 "Xã Nghĩa Hiệp",
                 "Xã Đồng Than",
@@ -4904,7 +4904,7 @@
                 "Xã Hưng Long"
             ],
             "Huyện Ân Thi": [
-                "Thị Trấn Ân Thi",
+                "Thị trấn Ân Thi",
                 "Xã Phù Ủng",
                 "Xã Bắc Sơn",
                 "Xã Bãi Sậy",
@@ -4927,7 +4927,7 @@
                 "Xã Hạ Lễ"
             ],
             "Huyện Khoái Châu": [
-                "Thị Trấn Khoái Châu",
+                "Thị trấn Khoái Châu",
                 "Xã Đông Tảo",
                 "Xã Bình Minh",
                 "Xã Dạ Trạch",
@@ -4954,7 +4954,7 @@
                 "Xã Nhuế Dương"
             ],
             "Huyện Kim Động": [
-                "Thị Trấn Lương Bằng",
+                "Thị trấn Lương Bằng",
                 "Xã Nghĩa Dân",
                 "Xã Toàn Thắng",
                 "Xã Vĩnh Xá",
@@ -4973,7 +4973,7 @@
                 "Xã Hiệp Cường"
             ],
             "Huyện Tiên Lữ": [
-                "Thị Trấn Vương",
+                "Thị trấn Vương",
                 "Xã Hưng Đạo",
                 "Xã Ngô Quyền",
                 "Xã Nhật Tân",
@@ -4990,7 +4990,7 @@
                 "Xã Minh Phượng"
             ],
             "Huyện Phù Cừ": [
-                "Thị Trấn Trần Cao",
+                "Thị trấn Trần Cao",
                 "Xã Minh Tân",
                 "Xã Phan Sào Nam",
                 "Xã Quang Hưng",
@@ -5029,7 +5029,7 @@
                 "Xã Tân Bình"
             ],
             "Huyện Quỳnh Phụ": [
-                "Thị Trấn Quỳnh Côi",
+                "Thị trấn Quỳnh Côi",
                 "Xã An Khê",
                 "Xã An Đồng",
                 "Xã Quỳnh Hoa",
@@ -5046,7 +5046,7 @@
                 "Xã An Ninh",
                 "Xã Quỳnh Ngọc",
                 "Xã Quỳnh Hải",
-                "Thị Trấn An Bài",
+                "Thị trấn An Bài",
                 "Xã An Ấp",
                 "Xã Quỳnh Hội",
                 "Xã Châu Sơn",
@@ -5068,7 +5068,7 @@
                 "Xã Đồng Tiến"
             ],
             "Huyện Hưng Hà": [
-                "Thị Trấn Hưng Hà",
+                "Thị trấn Hưng Hà",
                 "Xã Điệp Nông",
                 "Xã Tân Lễ",
                 "Xã Cộng Hòa",
@@ -5077,7 +5077,7 @@
                 "Xã Hòa Tiến",
                 "Xã Hùng Dũng",
                 "Xã Tân Tiến",
-                "Thị Trấn Hưng Nhân",
+                "Thị trấn Hưng Nhân",
                 "Xã Đoan Hùng",
                 "Xã Duyên Hải",
                 "Xã Tân Hòa",
@@ -5105,7 +5105,7 @@
                 "Xã Hồng Minh"
             ],
             "Huyện Đông Hưng": [
-                "Thị Trấn Đông Hưng",
+                "Thị trấn Đông Hưng",
                 "Xã Đô Lương",
                 "Xã Đông Phương",
                 "Xã Liên Giang",
@@ -5145,7 +5145,7 @@
                 "Xã Minh Phú"
             ],
             "Huyện Thái Thụy": [
-                "Thị Trấn Diêm Điền",
+                "Thị trấn Diêm Điền",
                 "Xã Thụy Trường",
                 "Xã Hồng Dũng",
                 "Xã Thụy Quỳnh",
@@ -5183,7 +5183,7 @@
                 "Xã Thái Thọ"
             ],
             "Huyện Tiền Hải": [
-                "Thị Trấn Tiền Hải",
+                "Thị trấn Tiền Hải",
                 "Xã Đông Trà",
                 "Xã Đông Long",
                 "Xã Đông Quí",
@@ -5217,7 +5217,7 @@
                 "Xã Nam Phú"
             ],
             "Huyện Kiến Xương": [
-                "Thị Trấn Kiến Xương",
+                "Thị trấn Kiến Xương",
                 "Xã Trà Giang",
                 "Xã Quốc Tuấn",
                 "Xã An Bình",
@@ -5252,7 +5252,7 @@
                 "Xã Hồng Tiến"
             ],
             "Huyện Vũ Thư": [
-                "Thị Trấn Vũ Thư",
+                "Thị trấn Vũ Thư",
                 "Xã Hồng Lý",
                 "Xã Đồng Thanh",
                 "Xã Xuân Hòa",
@@ -5327,7 +5327,7 @@
                 "Xã Tiên Sơn"
             ],
             "Huyện Kim Bảng": [
-                "Thị Trấn Quế",
+                "Thị trấn Quế",
                 "Xã Nguyễn Úy",
                 "Xã Đại Cương",
                 "Xã Lê Hồ",
@@ -5341,20 +5341,20 @@
                 "Xã Văn Xá",
                 "Xã Khả Phong",
                 "Xã Ngọc Sơn",
-                "Thị Trấn Ba Sao",
+                "Thị trấn Ba Sao",
                 "Xã Liên Sơn",
                 "Xã Thi Sơn",
                 "Xã Thanh Sơn"
             ],
             "Huyện Thanh Liêm": [
-                "Thị Trấn Kiện Khê",
+                "Thị trấn Kiện Khê",
                 "Xã Liêm Phong",
                 "Xã Thanh Hà",
                 "Xã Liêm Cần",
                 "Xã Liêm Thuận",
                 "Xã Thanh Thủy",
                 "Xã Thanh Phong",
-                "Thị Trấn Tân Thanh",
+                "Thị trấn Tân Thanh",
                 "Xã Thanh Tân",
                 "Xã Liêm Túc",
                 "Xã Liêm Sơn",
@@ -5365,7 +5365,7 @@
                 "Xã Thanh Hải"
             ],
             "Huyện Bình Lục": [
-                "Thị Trấn Bình Mỹ",
+                "Thị trấn Bình Mỹ",
                 "Xã Bình Nghĩa",
                 "Xã Tràng An",
                 "Xã Đồng Du",
@@ -5394,7 +5394,7 @@
                 "Xã Bắc Lý",
                 "Xã Đức Lý",
                 "Xã Trần Hưng Đạo",
-                "Thị Trấn Vĩnh Trụ",
+                "Thị trấn Vĩnh Trụ",
                 "Xã Nhân Thịnh",
                 "Xã Nhân Khang",
                 "Xã Nhân Mỹ",
@@ -5436,7 +5436,7 @@
                 "Xã Nam Vân"
             ],
             "Huyện Mỹ Lộc": [
-                "Thị Trấn Mỹ Lộc",
+                "Thị trấn Mỹ Lộc",
                 "Xã Mỹ Hà",
                 "Xã Mỹ Tiến",
                 "Xã Mỹ Thắng",
@@ -5449,7 +5449,7 @@
                 "Xã Mỹ Thành"
             ],
             "Huyện Vụ Bản": [
-                "Thị Trấn Gôi",
+                "Thị trấn Gôi",
                 "Xã Minh Thuận",
                 "Xã Hiển Khánh",
                 "Xã Tân Khánh",
@@ -5469,7 +5469,7 @@
                 "Xã Vĩnh Hào"
             ],
             "Huyện Ý Yên": [
-                "Thị Trấn Lâm",
+                "Thị trấn Lâm",
                 "Xã Yên Trung",
                 "Xã Yên Thành",
                 "Xã Yên Tân",
@@ -5502,8 +5502,8 @@
                 "Xã Yên Trị"
             ],
             "Huyện Nghĩa Hưng": [
-                "Thị Trấn Liễu Đề",
-                "Thị Trấn Rạng Đông",
+                "Thị trấn Liễu Đề",
+                "Thị trấn Rạng Đông",
                 "Xã Nghĩa Đồng",
                 "Xã Nghĩa Thịnh",
                 "Xã Nghĩa Minh",
@@ -5517,7 +5517,7 @@
                 "Xã Nghĩa Phong",
                 "Xã Nghĩa Phú",
                 "Xã Nghĩa Bình",
-                "Thị Trấn Quỹ Nhất",
+                "Thị trấn Quỹ Nhất",
                 "Xã Nghĩa Tân",
                 "Xã Nghĩa Hùng",
                 "Xã Nghĩa Lâm",
@@ -5528,7 +5528,7 @@
                 "Xã Nam Điền"
             ],
             "Huyện Nam Trực": [
-                "Thị Trấn Nam Giang",
+                "Thị trấn Nam Giang",
                 "Xã Nam Mỹ",
                 "Xã Điền Xá",
                 "Xã Nghĩa An",
@@ -5550,7 +5550,7 @@
                 "Xã Nam Thái"
             ],
             "Huyện Trực Ninh": [
-                "Thị Trấn Cổ Lễ",
+                "Thị trấn Cổ Lễ",
                 "Xã Phương Định",
                 "Xã Trực Chính",
                 "Xã Trung Đông",
@@ -5560,20 +5560,20 @@
                 "Xã Trực Đạo",
                 "Xã Trực Hưng",
                 "Xã Trực Nội",
-                "Thị Trấn Cát Thành",
+                "Thị trấn Cát Thành",
                 "Xã Trực Thanh",
                 "Xã Trực Khang",
                 "Xã Trực Thuận",
                 "Xã Trực Mỹ",
                 "Xã Trực Đại",
                 "Xã Trực Cường",
-                "Thị Trấn Ninh Cường",
+                "Thị trấn Ninh Cường",
                 "Xã Trực Thái",
                 "Xã Trực Hùng",
                 "Xã Trực Thắng"
             ],
             "Huyện Xuân Trường": [
-                "Thị Trấn Xuân Trường",
+                "Thị trấn Xuân Trường",
                 "Xã Xuân Châu",
                 "Xã Xuân Hồng",
                 "Xã Xuân Thành",
@@ -5595,8 +5595,8 @@
                 "Xã Xuân Hòa"
             ],
             "Huyện Giao Thủy": [
-                "Thị Trấn Ngô Đồng",
-                "Thị Trấn Quất Lâm",
+                "Thị trấn Ngô Đồng",
+                "Thị trấn Quất Lâm",
                 "Xã Giao Hương",
                 "Xã Hồng Thuận",
                 "Xã Giao Thiện",
@@ -5619,9 +5619,9 @@
                 "Xã Giao Phong"
             ],
             "Huyện Hải Hậu": [
-                "Thị Trấn Yên Định",
-                "Thị Trấn Cồn",
-                "Thị Trấn Thịnh Long",
+                "Thị trấn Yên Định",
+                "Thị trấn Cồn",
+                "Thị trấn Thịnh Long",
                 "Xã Hải Nam",
                 "Xã Hải Trung",
                 "Xã Hải Vân",
@@ -5684,7 +5684,7 @@
                 "Xã Đông Sơn"
             ],
             "Huyện Nho Quan": [
-                "Thị Trấn Nho Quan",
+                "Thị trấn Nho Quan",
                 "Xã Xích Thổ",
                 "Xã Gia Lâm",
                 "Xã Gia Sơn",
@@ -5713,7 +5713,7 @@
                 "Xã Quảng Lạc"
             ],
             "Huyện Gia Viễn": [
-                "Thị Trấn Me",
+                "Thị trấn Me",
                 "Xã Gia Hòa",
                 "Xã Gia Hưng",
                 "Xã Liên Sơn",
@@ -5736,7 +5736,7 @@
                 "Xã Gia Phong"
             ],
             "Huyện Hoa Lư": [
-                "Thị Trấn Thiên Tôn",
+                "Thị trấn Thiên Tôn",
                 "Xã Ninh Giang",
                 "Xã Trường Yên",
                 "Xã Ninh Khang",
@@ -5749,7 +5749,7 @@
                 "Xã Ninh An"
             ],
             "Huyện Yên Khánh": [
-                "Thị Trấn Yên Ninh",
+                "Thị trấn Yên Ninh",
                 "Xã Khánh Tiên",
                 "Xã Khánh Phú",
                 "Xã Khánh Hòa",
@@ -5770,8 +5770,8 @@
                 "Xã Khánh Hồng"
             ],
             "Huyện Kim Sơn": [
-                "Thị Trấn Phát Diệm",
-                "Thị Trấn Bình Minh",
+                "Thị trấn Phát Diệm",
+                "Thị trấn Bình Minh",
                 "Xã Hồi Ninh",
                 "Xã Xuân Chính",
                 "Xã Kim Định",
@@ -5797,7 +5797,7 @@
                 "Xã Kim Đông"
             ],
             "Huyện Yên Mô": [
-                "Thị Trấn Yên Thịnh",
+                "Thị trấn Yên Thịnh",
                 "Xã Khánh Thượng",
                 "Xã Khánh Dương",
                 "Xã Mai Sơn",
@@ -5876,7 +5876,7 @@
                 "Xã Quảng Đại"
             ],
             "Huyện Mường Lát": [
-                "Thị Trấn Mường Lát",
+                "Thị trấn Mường Lát",
                 "Xã Tam Chung",
                 "Xã Mường Lý",
                 "Xã Trung Lý",
@@ -5886,7 +5886,7 @@
                 "Xã Mường Chanh"
             ],
             "Huyện Quan Hóa": [
-                "Thị Trấn Hồi Xuân",
+                "Thị trấn Hồi Xuân",
                 "Xã Thành Sơn",
                 "Xã Trung Sơn",
                 "Xã Phú Thanh",
@@ -5903,7 +5903,7 @@
                 "Xã Nam Động"
             ],
             "Huyện Bá Thước": [
-                "Thị Trấn Cành Nàng",
+                "Thị trấn Cành Nàng",
                 "Xã Điền Thượng",
                 "Xã Điền Hạ",
                 "Xã Điền Quang",
@@ -5934,7 +5934,7 @@
                 "Xã Tam Thanh",
                 "Xã Sơn Thủy",
                 "Xã Na Mèo",
-                "Thị Trấn Sơn Lư",
+                "Thị trấn Sơn Lư",
                 "Xã Tam Lư",
                 "Xã Sơn Điện",
                 "Xã Mường Mìn"
@@ -5948,7 +5948,7 @@
                 "Xã Tân Phúc",
                 "Xã Tam Văn",
                 "Xã Lâm Phú",
-                "Thị Trấn Lang Chánh",
+                "Thị trấn Lang Chánh",
                 "Xã Đồng Lương"
             ],
             "Huyện Ngọc Lặc": [
@@ -5975,7 +5975,7 @@
                 "Xã Minh Sơn"
             ],
             "Huyện Cẩm Thủy": [
-                "Thị Trấn Phong Sơn",
+                "Thị trấn Phong Sơn",
                 "Xã Cẩm Thành",
                 "Xã Cẩm Quý",
                 "Xã Cẩm Lương",
@@ -5994,8 +5994,8 @@
                 "Xã Cẩm Vân"
             ],
             "Huyện Thạch Thành": [
-                "Thị Trấn Kim Tân",
-                "Thị Trấn Vân Du",
+                "Thị trấn Kim Tân",
+                "Thị trấn Vân Du",
                 "Xã Thạch Lâm",
                 "Xã Thạch Quảng",
                 "Xã Thạch Tượng",
@@ -6021,7 +6021,7 @@
                 "Xã Ngọc Trạo"
             ],
             "Huyện Hà Trung": [
-                "Thị Trấn Hà Trung",
+                "Thị trấn Hà Trung",
                 "Xã Hà Long",
                 "Xã Hà Vinh",
                 "Xã Hà Bắc",
@@ -6043,7 +6043,7 @@
                 "Xã Hà Hải"
             ],
             "Huyện Vĩnh Lộc": [
-                "Thị Trấn Vĩnh Lộc",
+                "Thị trấn Vĩnh Lộc",
                 "Xã Vĩnh Quang",
                 "Xã Vĩnh Yên",
                 "Xã Vĩnh Tiến",
@@ -6058,11 +6058,11 @@
                 "Xã Vĩnh An"
             ],
             "Huyện Yên Định": [
-                "Thị Trấn Thống Nhất",
-                "Thị Trấn Yên Lâm",
+                "Thị trấn Thống Nhất",
+                "Thị trấn Yên Lâm",
                 "Xã Yên Tâm",
                 "Xã Yên Phú",
-                "Thị Trấn Quý Lộc",
+                "Thị trấn Quý Lộc",
                 "Xã Yên Thọ",
                 "Xã Yên Trung",
                 "Xã Yên Trường",
@@ -6080,14 +6080,14 @@
                 "Xã Định Tiến",
                 "Xã Định Long",
                 "Xã Định Liên",
-                "Thị Trấn Quán Lào",
+                "Thị trấn Quán Lào",
                 "Xã Định Hưng",
                 "Xã Định Hải",
                 "Xã Định Bình"
             ],
             "Huyện Thọ Xuân": [
                 "Xã Xuân Hồng",
-                "Thị Trấn Thọ Xuân",
+                "Thị trấn Thọ Xuân",
                 "Xã Bắc Lương",
                 "Xã Nam Giang",
                 "Xã Xuân Phong",
@@ -6104,8 +6104,8 @@
                 "Xã Thọ Xương",
                 "Xã Xuân Bái",
                 "Xã Xuân Phú",
-                "Thị Trấn Sao Vàng",
-                "Thị Trấn Lam Sơn",
+                "Thị trấn Sao Vàng",
+                "Thị trấn Lam Sơn",
                 "Xã Xuân Thiên",
                 "Xã Thuận Minh",
                 "Xã Thọ Lập",
@@ -6128,7 +6128,7 @@
                 "Xã Luận Khê",
                 "Xã Xuân Thắng",
                 "Xã Xuân Lộc",
-                "Thị Trấn Thường Xuân",
+                "Thị trấn Thường Xuân",
                 "Xã Xuân Dương",
                 "Xã Thọ Thanh",
                 "Xã Ngọc Phụng",
@@ -6136,7 +6136,7 @@
                 "Xã Tân Thành"
             ],
             "Huyện Triệu Sơn": [
-                "Thị Trấn Triệu Sơn",
+                "Thị trấn Triệu Sơn",
                 "Xã Thọ Sơn",
                 "Xã Thọ Bình",
                 "Xã Thọ Tiến",
@@ -6152,7 +6152,7 @@
                 "Xã An Nông",
                 "Xã Văn Sơn",
                 "Xã Thái Hòa",
-                "Thị Trấn Nưa",
+                "Thị trấn Nưa",
                 "Xã Đồng Lợi",
                 "Xã Đồng Tiến",
                 "Xã Đồng Thắng",
@@ -6172,7 +6172,7 @@
                 "Xã Bình Sơn"
             ],
             "Huyện Thiệu Hóa": [
-                "Thị Trấn Thiệu Hóa",
+                "Thị trấn Thiệu Hóa",
                 "Xã Thiệu Ngọc",
                 "Xã Thiệu Vũ",
                 "Xã Thiệu Phúc",
@@ -6199,7 +6199,7 @@
                 "Xã Thiệu Giao"
             ],
             "Huyện Hoằng Hóa": [
-                "Thị Trấn Bút Sơn",
+                "Thị trấn Bút Sơn",
                 "Xã Hoằng Giang",
                 "Xã Hoằng Xuân",
                 "Xã Hoằng Phượng",
@@ -6238,7 +6238,7 @@
                 "Xã Hoằng Trường"
             ],
             "Huyện Hậu Lộc": [
-                "Thị Trấn Hậu Lộc",
+                "Thị trấn Hậu Lộc",
                 "Xã Đồng Lộc",
                 "Xã Đại Lộc",
                 "Xã Triệu Lộc",
@@ -6263,7 +6263,7 @@
                 "Xã Ngư Lộc"
             ],
             "Huyện Nga Sơn": [
-                "Thị Trấn Nga Sơn",
+                "Thị trấn Nga Sơn",
                 "Xã Ba Đình",
                 "Xã Nga Vịnh",
                 "Xã Nga Văn",
@@ -6289,7 +6289,7 @@
                 "Xã Nga Trường"
             ],
             "Huyện Như Xuân": [
-                "Thị Trấn Yên Cát",
+                "Thị trấn Yên Cát",
                 "Xã Bãi Trành",
                 "Xã Xuân Hòa",
                 "Xã Xuân Bình",
@@ -6307,7 +6307,7 @@
                 "Xã Thượng Ninh"
             ],
             "Huyện Như Thanh": [
-                "Thị Trấn Bến Sung",
+                "Thị trấn Bến Sung",
                 "Xã Cán Khê",
                 "Xã Xuân Du",
                 "Xã Phượng Nghi",
@@ -6323,7 +6323,7 @@
                 "Xã Thanh Kỳ"
             ],
             "Huyện Nông Cống": [
-                "Thị Trấn Nông Cống",
+                "Thị trấn Nông Cống",
                 "Xã Tân Phúc",
                 "Xã Tân Thọ",
                 "Xã Hoàng Sơn",
@@ -6354,7 +6354,7 @@
                 "Xã Yên Mỹ"
             ],
             "Huyện Đông Sơn": [
-                "Thị Trấn Rừng Thông",
+                "Thị trấn Rừng Thông",
                 "Xã Đông Hoàng",
                 "Xã Đông Ninh",
                 "Xã Đông Hòa",
@@ -6370,7 +6370,7 @@
                 "Xã Đông Quang"
             ],
             "Huyện Quảng Xương": [
-                "Thị Trấn Tân Phong",
+                "Thị trấn Tân Phong",
                 "Xã Quảng Trạch",
                 "Xã Quảng Đức",
                 "Xã Quảng Định",
@@ -6480,7 +6480,7 @@
                 "Xã Đông Hiếu"
             ],
             "Huyện Quế Phong": [
-                "Thị Trấn Kim Sơn",
+                "Thị trấn Kim Sơn",
                 "Xã Thông Thụ",
                 "Xã Đồng Văn",
                 "Xã Hạnh Dịch",
@@ -6495,7 +6495,7 @@
                 "Xã Căm Muộn"
             ],
             "Huyện Quỳ Châu": [
-                "Thị Trấn Tân Lạc",
+                "Thị trấn Tân Lạc",
                 "Xã Châu Bính",
                 "Xã Châu Thuận",
                 "Xã Châu Hội",
@@ -6509,7 +6509,7 @@
                 "Xã Diên Lãm"
             ],
             "Huyện Kỳ Sơn": [
-                "Thị Trấn Mường Xén",
+                "Thị trấn Mường Xén",
                 "Xã Mỹ Lý",
                 "Xã Bắc Lý",
                 "Xã Keng Đu",
@@ -6532,7 +6532,7 @@
                 "Xã Nậm Càn"
             ],
             "Huyện Tương Dương": [
-                "Thị Trấn Thạch Giám",
+                "Thị trấn Thạch Giám",
                 "Xã Mai Sơn",
                 "Xã Nhôn Mai",
                 "Xã Hữu Khuông",
@@ -6551,7 +6551,7 @@
                 "Xã Tam Hợp"
             ],
             "Huyện Nghĩa Đàn": [
-                "Thị Trấn Nghĩa Đàn",
+                "Thị trấn Nghĩa Đàn",
                 "Xã Nghĩa Mai",
                 "Xã Nghĩa Yên",
                 "Xã Nghĩa Lạc",
@@ -6576,7 +6576,7 @@
                 "Xã Nghĩa Khánh"
             ],
             "Huyện Quỳ Hợp": [
-                "Thị Trấn Quỳ Hợp",
+                "Thị trấn Quỳ Hợp",
                 "Xã Yên Hợp",
                 "Xã Châu Tiến",
                 "Xã Châu Hồng",
@@ -6599,7 +6599,7 @@
                 "Xã Bắc Sơn"
             ],
             "Huyện Quỳnh Lưu": [
-                "Thị Trấn Cầu Giát",
+                "Thị trấn Cầu Giát",
                 "Xã Quỳnh Thắng",
                 "Xã Quỳnh Tân",
                 "Xã Quỳnh Châu",
@@ -6634,7 +6634,7 @@
                 "Xã Tân Thắng"
             ],
             "Huyện Con Cuông": [
-                "Thị Trấn Con Cuông",
+                "Thị trấn Con Cuông",
                 "Xã Bình Chuẩn",
                 "Xã Lạng Khê",
                 "Xã Cam Lâm",
@@ -6649,7 +6649,7 @@
                 "Xã Môn Sơn"
             ],
             "Huyện Tân Kỳ": [
-                "Thị Trấn Tân Kỳ",
+                "Thị trấn Tân Kỳ",
                 "Xã Tân Hợp",
                 "Xã Tân Phú",
                 "Xã Tân Xuân",
@@ -6673,7 +6673,7 @@
                 "Xã Nghĩa Hành"
             ],
             "Huyện Anh Sơn": [
-                "Thị Trấn Anh Sơn",
+                "Thị trấn Anh Sơn",
                 "Xã Thọ Sơn",
                 "Xã Thành Sơn",
                 "Xã Bình Sơn",
@@ -6696,7 +6696,7 @@
                 "Xã Cao Sơn"
             ],
             "Huyện Diễn Châu": [
-                "Thị Trấn Diễn Châu",
+                "Thị trấn Diễn Châu",
                 "Xã Diễn Lâm",
                 "Xã Diễn Đoài",
                 "Xã Diễn Trường",
@@ -6735,7 +6735,7 @@
                 "Xã Diễn Phú"
             ],
             "Huyện Yên Thành": [
-                "Thị Trấn Yên Thành",
+                "Thị trấn Yên Thành",
                 "Xã Mã Thành",
                 "Xã Tiến Thành",
                 "Xã Lăng Thành",
@@ -6776,7 +6776,7 @@
                 "Xã Sơn Thành"
             ],
             "Huyện Đô Lương": [
-                "Thị Trấn Đô Lương",
+                "Thị trấn Đô Lương",
                 "Xã Giang Sơn Đông",
                 "Xã Giang Sơn Tây",
                 "Xã Lam Sơn",
@@ -6811,7 +6811,7 @@
                 "Xã Đại Sơn"
             ],
             "Huyện Thanh Chương": [
-                "Thị Trấn Thanh Chương",
+                "Thị trấn Thanh Chương",
                 "Xã Cát Văn",
                 "Xã Thanh Nho",
                 "Xã Hạnh Lâm",
@@ -6851,7 +6851,7 @@
                 "Xã Thanh Đức"
             ],
             "Huyện Nghi Lộc": [
-                "Thị Trấn Quán Hành",
+                "Thị trấn Quán Hành",
                 "Xã Nghi Văn",
                 "Xã Nghi Yên",
                 "Xã Nghi Tiến",
@@ -6888,7 +6888,7 @@
                 "Xã Nam Anh",
                 "Xã Nam Xuân",
                 "Xã Nam Thái",
-                "Thị Trấn Nam Đàn",
+                "Thị trấn Nam Đàn",
                 "Xã Nam Lĩnh",
                 "Xã Nam Giang",
                 "Xã Xuân Hòa",
@@ -6903,7 +6903,7 @@
                 "Xã Nam Kim"
             ],
             "Huyện Hưng Nguyên": [
-                "Thị Trấn Hưng Nguyên",
+                "Thị trấn Hưng Nguyên",
                 "Xã Hưng Trung",
                 "Xã Hưng Yên",
                 "Xã Hưng Yên Bắc",
@@ -6962,8 +6962,8 @@
                 "Xã Thuận Lộc"
             ],
             "Huyện Hương Sơn": [
-                "Thị Trấn Phố Châu",
-                "Thị Trấn  Tây Sơn",
+                "Thị trấn Phố Châu",
+                "Thị trấn  Tây Sơn",
                 "Xã Sơn Hồng",
                 "Xã Sơn Tiến",
                 "Xã Sơn Lâm",
@@ -6989,7 +6989,7 @@
                 "Xã Sơn Trường"
             ],
             "Huyện Đức Thọ": [
-                "Thị Trấn Đức Thọ",
+                "Thị trấn Đức Thọ",
                 "Xã Quang Vĩnh",
                 "Xã Tùng Châu",
                 "Xã Trường Sơn",
@@ -7007,7 +7007,7 @@
                 "Xã Tân Hương"
             ],
             "Huyện Vũ Quang": [
-                "Thị Trấn Vũ Quang",
+                "Thị trấn Vũ Quang",
                 "Xã Ân Phú",
                 "Xã Đức Giang",
                 "Xã Đức Lĩnh",
@@ -7019,13 +7019,13 @@
                 "Xã Quang Thọ"
             ],
             "Huyện Nghi Xuân": [
-                "Thị Trấn Xuân An",
+                "Thị trấn Xuân An",
                 "Xã Xuân Hội",
                 "Xã Đan Trường",
                 "Xã Xuân Phổ",
                 "Xã Xuân Hải",
                 "Xã Xuân Giang",
-                "Thị Trấn Tiên Điền",
+                "Thị trấn Tiên Điền",
                 "Xã Xuân Yên",
                 "Xã Xuân Mỹ",
                 "Xã Xuân Thành",
@@ -7038,7 +7038,7 @@
                 "Xã Cương Gián"
             ],
             "Huyện Can Lộc": [
-                "Thị Trấn Nghèn",
+                "Thị trấn Nghèn",
                 "Xã Thiên Lộc",
                 "Xã Thuần Thiện",
                 "Xã Vượng Lộc",
@@ -7053,12 +7053,12 @@
                 "Xã Xuân Lộc",
                 "Xã Thượng Lộc",
                 "Xã Quang Lộc",
-                "Thị Trấn Đồng Lộc",
+                "Thị trấn Đồng Lộc",
                 "Xã Mỹ Lộc",
                 "Xã Sơn Lộc"
             ],
             "Huyện Hương Khê": [
-                "Thị Trấn Hương Khê",
+                "Thị trấn Hương Khê",
                 "Xã Điền Mỹ",
                 "Xã Hà Linh",
                 "Xã Hương Thủy",
@@ -7081,7 +7081,7 @@
                 "Xã Hương Liên"
             ],
             "Huyện Thạch Hà": [
-                "Thị Trấn Thạch Hà",
+                "Thị trấn Thạch Hà",
                 "Xã Ngọc Sơn",
                 "Xã Thạch Hải",
                 "Xã Thạch Kênh",
@@ -7105,8 +7105,8 @@
                 "Xã Nam Điền"
             ],
             "Huyện Cẩm Xuyên": [
-                "Thị Trấn Cẩm Xuyên",
-                "Thị Trấn Thiên Cầm",
+                "Thị trấn Cẩm Xuyên",
+                "Thị trấn Thiên Cầm",
                 "Xã Yên Hòa",
                 "Xã Cẩm Dương",
                 "Xã Cẩm Bình",
@@ -7158,7 +7158,7 @@
                 "Xã Bình An",
                 "Xã Ích Hậu",
                 "Xã Phù Lưu",
-                "Thị Trấn Lộc Hà",
+                "Thị trấn Lộc Hà",
                 "Xã Thạch Mỹ",
                 "Xã Thạch Kim",
                 "Xã Thạch Châu",
@@ -7198,7 +7198,7 @@
                 "Xã Đức Ninh"
             ],
             "Huyện Minh Hóa": [
-                "Thị Trấn Quy Đạt",
+                "Thị trấn Quy Đạt",
                 "Xã Dân Hóa",
                 "Xã Trọng Hóa",
                 "Xã Hóa Phúc",
@@ -7215,7 +7215,7 @@
                 "Xã Thượng Hóa"
             ],
             "Huyện Tuyên Hóa": [
-                "Thị Trấn Đồng Lê",
+                "Thị trấn Đồng Lê",
                 "Xã Hương Hóa",
                 "Xã Kim Hóa",
                 "Xã Thanh Hóa",
@@ -7255,8 +7255,8 @@
                 "Xã Quảng Thanh"
             ],
             "Huyện Bố Trạch": [
-                "Thị Trấn Hoàn Lão",
-                "Thị Trấn Nt Việt Trung",
+                "Thị trấn Hoàn Lão",
+                "Thị trấn NT Việt Trung",
                 "Xã Xuân Trạch",
                 "Xã Mỹ Trạch",
                 "Xã Hạ Trạch",
@@ -7272,7 +7272,7 @@
                 "Xã Hưng Trạch",
                 "Xã Đồng Trạch",
                 "Xã Đức Trạch",
-                "Thị Trấn Phong Nha",
+                "Thị trấn Phong Nha",
                 "Xã Vạn Trạch",
                 "Xã Phú Định",
                 "Xã Trung Trạch",
@@ -7285,7 +7285,7 @@
                 "Xã Lý Trạch"
             ],
             "Huyện Quảng Ninh": [
-                "Thị Trấn Quán Hàu",
+                "Thị trấn Quán Hàu",
                 "Xã Trường Sơn",
                 "Xã Lương Ninh",
                 "Xã Vĩnh Ninh",
@@ -7302,8 +7302,8 @@
                 "Xã Vạn Ninh"
             ],
             "Huyện Lệ Thủy": [
-                "Thị Trấn Nt Lệ Ninh",
-                "Thị Trấn Kiến Giang",
+                "Thị trấn NT Lệ Ninh",
+                "Thị trấn Kiến Giang",
                 "Xã Hồng Thủy",
                 "Xã Ngư Thủy Bắc",
                 "Xã Hoa Thủy",
@@ -7368,8 +7368,8 @@
                 "Xã Hải Lệ"
             ],
             "Huyện Vĩnh Linh": [
-                "Thị Trấn Hồ Xá",
-                "Thị Trấn Bến Quan",
+                "Thị trấn Hồ Xá",
+                "Thị trấn Bến Quan",
                 "Xã Vĩnh Thái",
                 "Xã Vĩnh Tú",
                 "Xã Vĩnh Chấp",
@@ -7381,15 +7381,15 @@
                 "Xã Vĩnh Thủy",
                 "Xã Vĩnh Lâm",
                 "Xã Hiền Thành",
-                "Thị Trấn Cửa Tùng",
+                "Thị trấn Cửa Tùng",
                 "Xã Vĩnh Hà",
                 "Xã Vĩnh Sơn",
                 "Xã Vĩnh Giang",
                 "Xã Vĩnh Ô"
             ],
             "Huyện Hướng Hóa": [
-                "Thị Trấn Khe Sanh",
-                "Thị Trấn Lao Bảo",
+                "Thị trấn Khe Sanh",
+                "Thị trấn Lao Bảo",
                 "Xã Hướng Lập",
                 "Xã Hướng Việt",
                 "Xã Hướng Phùng",
@@ -7411,8 +7411,8 @@
                 "Xã Xy"
             ],
             "Huyện Gio Linh": [
-                "Thị Trấn Gio Linh",
-                "Thị Trấn Cửa Việt",
+                "Thị trấn Gio Linh",
+                "Thị trấn Cửa Việt",
                 "Xã Trung Giang",
                 "Xã Trung Hải",
                 "Xã Trung Sơn",
@@ -7430,7 +7430,7 @@
                 "Xã Gio Quang"
             ],
             "Huyện Đa Krông": [
-                "Thị Trấn Krông Klang",
+                "Thị trấn Krông Klang",
                 "Xã Mò Ó",
                 "Xã Hướng Hiệp",
                 "Xã Đa Krông",
@@ -7445,7 +7445,7 @@
                 "Xã A Ngo"
             ],
             "Huyện Cam Lộ": [
-                "Thị Trấn Cam Lộ",
+                "Thị trấn Cam Lộ",
                 "Xã Cam Tuyền",
                 "Xã Thanh An",
                 "Xã Cam Thủy",
@@ -7475,7 +7475,7 @@
                 "Xã Triệu Thành"
             ],
             "Huyện Hải Lăng": [
-                "Thị Trấn Diên Sanh",
+                "Thị trấn Diên Sanh",
                 "Xã Hải An",
                 "Xã Hải Ba",
                 "Xã Hải Quy",
@@ -7536,7 +7536,7 @@
                 "Xã Hương Thọ"
             ],
             "Huyện Phong Điền": [
-                "Thị Trấn Phong Điền",
+                "Thị trấn Phong Điền",
                 "Xã Điền Hương",
                 "Xã Điền Môn",
                 "Xã Điền Lộc",
@@ -7554,7 +7554,7 @@
                 "Xã Phong Sơn"
             ],
             "Huyện Quảng Điền": [
-                "Thị Trấn Sịa",
+                "Thị trấn Sịa",
                 "Xã Quảng Thái",
                 "Xã Quảng Ngạn",
                 "Xã Quảng Lợi",
@@ -7576,7 +7576,7 @@
                 "Xã Phú Hồ",
                 "Xã Vinh Xuân",
                 "Xã Phú Lương",
-                "Thị Trấn Phú Đa",
+                "Thị trấn Phú Đa",
                 "Xã Vinh Thanh",
                 "Xã Vinh An",
                 "Xã Phú Gia",
@@ -7606,7 +7606,7 @@
                 "Xã Bình Thành"
             ],
             "Huyện A Lưới": [
-                "Thị Trấn A Lưới",
+                "Thị trấn A Lưới",
                 "Xã Hồng Vân",
                 "Xã Hồng Hạ",
                 "Xã Hồng Kim",
@@ -7626,8 +7626,8 @@
                 "Xã Hồng Thủy"
             ],
             "Huyện Phú Lộc": [
-                "Thị Trấn Phú Lộc",
-                "Thị Trấn Lăng Cô",
+                "Thị trấn Phú Lộc",
+                "Thị trấn Lăng Cô",
                 "Xã Vinh Mỹ",
                 "Xã Vinh Hưng",
                 "Xã Giang Hải",
@@ -7645,7 +7645,7 @@
                 "Xã Xuân Lộc"
             ],
             "Huyện Nam Đông": [
-                "Thị Trấn Khe Tre",
+                "Thị trấn Khe Tre",
                 "Xã Hương Phú",
                 "Xã Hương Sơn",
                 "Xã Hương Lộc",
@@ -7689,7 +7689,7 @@
                 "Xã Tân Hiệp"
             ],
             "Huyện Tây Giang": [
-                "Xã Ch'Ơm",
+                "Xã Ch'ơm",
                 "Xã Ga Ri",
                 "Xã A Xan",
                 "Xã Tr'Hy",
@@ -7701,7 +7701,7 @@
                 "Xã Dang"
             ],
             "Huyện Đông Giang": [
-                "Thị Trấn P Rao",
+                "Thị trấn P Rao",
                 "Xã Tà Lu",
                 "Xã Sông Kôn",
                 "Xã Jơ Ngây",
@@ -7756,7 +7756,7 @@
                 "Xã Điện Phương"
             ],
             "Huyện Duy Xuyên": [
-                "Thị Trấn Nam Phước",
+                "Thị trấn Nam Phước",
                 "Xã Duy Thu",
                 "Xã Duy Phú",
                 "Xã Duy Tân",
@@ -7772,11 +7772,11 @@
                 "Xã Duy Hải"
             ],
             "Huyện Quế Sơn": [
-                "Thị Trấn Đông Phú",
+                "Thị trấn Đông Phú",
                 "Xã Quế Xuân 1",
                 "Xã Quế Xuân 2",
                 "Xã Quế Phú",
-                "Thị Trấn Hương An",
+                "Thị trấn Hương An",
                 "Xã Quế Hiệp",
                 "Xã Quế Thuận",
                 "Xã Quế Mỹ",
@@ -7787,7 +7787,7 @@
                 "Xã Quế Minh"
             ],
             "Huyện Nam Giang": [
-                "Thị Trấn Thạnh Mỹ",
+                "Thị trấn Thạnh Mỹ",
                 "Xã Laêê",
                 "Xã Chơ Chun",
                 "Xã Zuôich",
@@ -7801,7 +7801,7 @@
                 "Xã Đắc Pring"
             ],
             "Huyện Phước Sơn": [
-                "Thị Trấn Khâm Đức",
+                "Thị trấn Khâm Đức",
                 "Xã Phước Xuân",
                 "Xã Phước Hiệp",
                 "Xã Phước Hoà",
@@ -7822,13 +7822,13 @@
                 "Xã Sông Trà",
                 "Xã Phước Trà",
                 "Xã Phước Gia",
-                "Thị Trấn Tân Bình",
+                "Thị trấn Tân Bình",
                 "Xã Quế Lưu",
                 "Xã Thăng Phước",
                 "Xã Bình Sơn"
             ],
             "Huyện Thăng Bình": [
-                "Thị Trấn Hà Lam",
+                "Thị trấn Hà Lam",
                 "Xã Bình Dương",
                 "Xã Bình Giang",
                 "Xã Bình Nguyên",
@@ -7852,7 +7852,7 @@
                 "Xã Bình Nam"
             ],
             "Huyện Tiên Phước": [
-                "Thị Trấn Tiên Kỳ",
+                "Thị trấn Tiên Kỳ",
                 "Xã Tiên Sơn",
                 "Xã Tiên Hà",
                 "Xã Tiên Cẩm",
@@ -7869,7 +7869,7 @@
                 "Xã Tiên Lập"
             ],
             "Huyện Bắc Trà My": [
-                "Thị Trấn Trà My",
+                "Thị trấn Trà My",
                 "Xã Trà Sơn",
                 "Xã Trà Kót",
                 "Xã Trà Nú",
@@ -7896,9 +7896,9 @@
                 "Xã Trà Vinh"
             ],
             "Huyện Núi Thành": [
-                "Thị Trấn Núi Thành",
+                "Thị trấn Núi Thành",
                 "Xã Tam Xuân I",
-                "Xã Tam Xuân Ii",
+                "Xã Tam Xuân II",
                 "Xã Tam Tiến",
                 "Xã Tam Sơn",
                 "Xã Tam Thạnh",
@@ -7915,7 +7915,7 @@
                 "Xã Tam Trà"
             ],
             "Huyện Phú Ninh": [
-                "Thị Trấn Phú Thịnh",
+                "Thị trấn Phú Thịnh",
                 "Xã Tam Thành",
                 "Xã Tam An",
                 "Xã Tam Đàn",
@@ -7987,7 +7987,7 @@
                 "Xã Bình Châu"
             ],
             "Huyện Trà Bồng": [
-                "Thị Trấn Trà Xuân",
+                "Thị trấn Trà Xuân",
                 "Xã Trà Giang",
                 "Xã Trà Thủy",
                 "Xã Trà Hiệp",
@@ -8018,8 +8018,8 @@
                 "Xã Tịnh Minh"
             ],
             "Huyện Tư Nghĩa": [
-                "Thị Trấn La Hà",
-                "Thị Trấn Sông Vệ",
+                "Thị trấn La Hà",
+                "Thị trấn Sông Vệ",
                 "Xã Nghĩa Lâm",
                 "Xã Nghĩa Thắng",
                 "Xã Nghĩa Thuận",
@@ -8034,7 +8034,7 @@
                 "Xã Nghĩa Mỹ"
             ],
             "Huyện Sơn Hà": [
-                "Thị Trấn Di Lăng",
+                "Thị trấn Di Lăng",
                 "Xã Sơn Hạ",
                 "Xã Sơn Thành",
                 "Xã Sơn Nham",
@@ -8068,7 +8068,7 @@
                 "Xã Long Hiệp"
             ],
             "Huyện Nghĩa Hành": [
-                "Thị Trấn Chợ Chùa",
+                "Thị trấn Chợ Chùa",
                 "Xã Hành Thuận",
                 "Xã Hành Dũng",
                 "Xã Hành Trung",
@@ -8082,7 +8082,7 @@
                 "Xã Hành Tín  Đông"
             ],
             "Huyện Mộ Đức": [
-                "Thị Trấn Mộ Đức",
+                "Thị trấn Mộ Đức",
                 "Xã Đức Lợi",
                 "Xã Đức Thắng",
                 "Xã Đức Nhuận",
@@ -8114,7 +8114,7 @@
                 "Xã Phổ Châu"
             ],
             "Huyện Ba Tơ": [
-                "Thị Trấn Ba Tơ",
+                "Thị trấn Ba Tơ",
                 "Xã Ba Điền",
                 "Xã Ba Vinh",
                 "Xã Ba Thành",
@@ -8163,7 +8163,7 @@
                 "Xã Phước Mỹ"
             ],
             "Huyện An Lão": [
-                "Thị Trấn An Lão",
+                "Thị trấn An Lão",
                 "Xã An Hưng",
                 "Xã An Trung",
                 "Xã An Dũng",
@@ -8194,7 +8194,7 @@
                 "Phường Hoài Đức"
             ],
             "Huyện Hoài Ân": [
-                "Thị Trấn Tăng Bạt Hổ",
+                "Thị trấn Tăng Bạt Hổ",
                 "Xã Ân Hảo Tây",
                 "Xã Ân Hảo Đông",
                 "Xã Ân Sơn",
@@ -8211,8 +8211,8 @@
                 "Xã Ân Nghĩa"
             ],
             "Huyện Phù Mỹ": [
-                "Thị Trấn Phù Mỹ",
-                "Thị Trấn Bình Dương",
+                "Thị trấn Phù Mỹ",
+                "Thị trấn Bình Dương",
                 "Xã Mỹ Đức",
                 "Xã Mỹ Châu",
                 "Xã Mỹ Thắng",
@@ -8232,7 +8232,7 @@
                 "Xã Mỹ Chánh Tây"
             ],
             "Huyện Vĩnh Thạnh": [
-                "Thị Trấn Vĩnh Thạnh",
+                "Thị trấn Vĩnh Thạnh",
                 "Xã Vĩnh Sơn",
                 "Xã Vĩnh Kim",
                 "Xã Vĩnh Hiệp",
@@ -8243,7 +8243,7 @@
                 "Xã Vĩnh Quang"
             ],
             "Huyện Tây Sơn": [
-                "Thị Trấn Phú Phong",
+                "Thị trấn Phú Phong",
                 "Xã Bình Tân",
                 "Xã Tây Thuận",
                 "Xã Bình Thuận",
@@ -8260,7 +8260,7 @@
                 "Xã Tây Phú"
             ],
             "Huyện Phù Cát": [
-                "Thị Trấn Ngô Mây",
+                "Thị trấn Ngô Mây",
                 "Xã Cát Sơn",
                 "Xã Cát Minh",
                 "Xã Cát Khánh",
@@ -8275,7 +8275,7 @@
                 "Xã Cát Hưng",
                 "Xã Cát Tường",
                 "Xã Cát Tân",
-                "Thị Trấn Cát Tiến",
+                "Thị trấn Cát Tiến",
                 "Xã Cát Thắng",
                 "Xã Cát Chánh"
             ],
@@ -8297,8 +8297,8 @@
                 "Xã Nhơn Thọ"
             ],
             "Huyện Tuy Phước": [
-                "Thị Trấn Tuy Phước",
-                "Thị Trấn Diêu Trì",
+                "Thị trấn Tuy Phước",
+                "Thị trấn Diêu Trì",
                 "Xã Phước Thắng",
                 "Xã Phước Hưng",
                 "Xã Phước Quang",
@@ -8312,7 +8312,7 @@
                 "Xã Phước Thành"
             ],
             "Huyện Vân Canh": [
-                "Thị Trấn Vân Canh",
+                "Thị trấn Vân Canh",
                 "Xã Canh Liên",
                 "Xã Canh Hiệp",
                 "Xã Canh Vinh",
@@ -8356,7 +8356,7 @@
                 "Xã Xuân Thọ 2"
             ],
             "Huyện Đồng Xuân": [
-                "Thị Trấn La Hai",
+                "Thị trấn La Hai",
                 "Xã Đa Lộc",
                 "Xã Phú Mỡ",
                 "Xã Xuân Lãnh",
@@ -8369,7 +8369,7 @@
                 "Xã Xuân Phước"
             ],
             "Huyện Tuy An": [
-                "Thị Trấn Chí Thạnh",
+                "Thị trấn Chí Thạnh",
                 "Xã An Dân",
                 "Xã An Ninh Tây",
                 "Xã An Ninh Đông",
@@ -8386,7 +8386,7 @@
                 "Xã An Thọ"
             ],
             "Huyện Sơn Hòa": [
-                "Thị Trấn Củng Sơn",
+                "Thị trấn Củng Sơn",
                 "Xã Phước Tân",
                 "Xã Sơn Hội",
                 "Xã Sơn Định",
@@ -8402,15 +8402,15 @@
                 "Xã Suối Trai"
             ],
             "Huyện Sông Hinh": [
-                "Thị Trấn Hai Riêng",
+                "Thị trấn Hai Riêng",
                 "Xã Ea Lâm",
                 "Xã Đức Bình Tây",
                 "Xã Ea Bá",
                 "Xã Sơn Giang",
                 "Xã Đức Bình Đông",
-                "Xã Eabar",
-                "Xã Eabia",
-                "Xã Eatrol",
+                "Xã EaBar",
+                "Xã EaBia",
+                "Xã EaTrol",
                 "Xã Sông Hinh",
                 "Xã Ealy"
             ],
@@ -8418,7 +8418,7 @@
                 "Xã Sơn Thành Tây",
                 "Xã Sơn Thành Đông",
                 "Xã Hòa Bình 1",
-                "Thị Trấn Phú Thứ",
+                "Thị trấn Phú Thứ",
                 "Xã Hòa Phong",
                 "Xã Hòa Phú",
                 "Xã Hòa Tân Tây",
@@ -8505,7 +8505,7 @@
                 "Xã Cam Hải Tây",
                 "Xã Sơn Tân",
                 "Xã Cam Hiệp Bắc",
-                "Thị Trấn Cam Đức",
+                "Thị trấn Cam Đức",
                 "Xã Cam Hiệp Nam",
                 "Xã Cam Phước Tây",
                 "Xã Cam Thành Bắc",
@@ -8515,7 +8515,7 @@
                 "Xã Suối Tân"
             ],
             "Huyện Vạn Ninh": [
-                "Thị Trấn Vạn Giã",
+                "Thị trấn Vạn Giã",
                 "Xã Đại Lãnh",
                 "Xã Vạn Phước",
                 "Xã Vạn Long",
@@ -8559,7 +8559,7 @@
                 "Xã Ninh Vân"
             ],
             "Huyện Khánh Vĩnh": [
-                "Thị Trấn Khánh Vĩnh",
+                "Thị trấn Khánh Vĩnh",
                 "Xã Khánh Hiệp",
                 "Xã Khánh Bình",
                 "Xã Khánh Trung",
@@ -8575,7 +8575,7 @@
                 "Xã Sơn Thái"
             ],
             "Huyện Diên Khánh": [
-                "Thị Trấn Diên Khánh",
+                "Thị trấn Diên Khánh",
                 "Xã Diên Lâm",
                 "Xã Diên Điền",
                 "Xã Diên Xuân",
@@ -8595,7 +8595,7 @@
                 "Xã Suối Tiên"
             ],
             "Huyện Khánh Sơn": [
-                "Thị Trấn Tô Hạp",
+                "Thị trấn Tô Hạp",
                 "Xã Thành Sơn",
                 "Xã Sơn Lâm",
                 "Xã Sơn Hiệp",
@@ -8605,7 +8605,7 @@
                 "Xã Ba Cụm Nam"
             ],
             "Huyện Trường Sa": [
-                "Thị Trấn Trường Sa",
+                "Thị trấn Trường Sa",
                 "Xã Song Tử Tây",
                 "Xã Sinh Tồn"
             ]
@@ -8641,7 +8641,7 @@
                 "Xã Phước Trung"
             ],
             "Huyện Ninh Sơn": [
-                "Thị Trấn Tân Sơn",
+                "Thị trấn Tân Sơn",
                 "Xã Lâm Sơn",
                 "Xã Lương Sơn",
                 "Xã Quảng Sơn",
@@ -8651,7 +8651,7 @@
                 "Xã Nhơn Sơn"
             ],
             "Huyện Ninh Hải": [
-                "Thị Trấn Khánh Hải",
+                "Thị trấn Khánh Hải",
                 "Xã Vĩnh Hải",
                 "Xã Phương Hải",
                 "Xã Tân Hải",
@@ -8662,7 +8662,7 @@
                 "Xã Thanh Hải"
             ],
             "Huyện Ninh Phước": [
-                "Thị Trấn Phước Dân",
+                "Thị trấn Phước Dân",
                 "Xã Phước Sơn",
                 "Xã Phước Thái",
                 "Xã Phước Hậu",
@@ -8724,8 +8724,8 @@
                 "Xã Tân Phước"
             ],
             "Huyện Tuy Phong": [
-                "Thị Trấn Liên Hương",
-                "Thị Trấn Phan Rí Cửa",
+                "Thị trấn Liên Hương",
+                "Thị trấn Phan Rí Cửa",
                 "Xã Phan Dũng",
                 "Xã Phong Phú",
                 "Xã Vĩnh Hảo",
@@ -8737,7 +8737,7 @@
                 "Xã Bình Thạnh"
             ],
             "Huyện Bắc Bình": [
-                "Thị Trấn Chợ Lầu",
+                "Thị trấn Chợ Lầu",
                 "Xã Phan Sơn",
                 "Xã Phan Lâm",
                 "Xã Bình An",
@@ -8746,7 +8746,7 @@
                 "Xã Sông Lũy",
                 "Xã Phan Tiến",
                 "Xã Sông Bình",
-                "Thị Trấn Lương Sơn",
+                "Thị trấn Lương Sơn",
                 "Xã Phan Hòa",
                 "Xã Phan Thanh",
                 "Xã Hồng Thái",
@@ -8757,8 +8757,8 @@
                 "Xã Hồng Phong"
             ],
             "Huyện Hàm Thuận Bắc": [
-                "Thị Trấn Ma Lâm",
-                "Thị Trấn Phú Long",
+                "Thị trấn Ma Lâm",
+                "Thị trấn Phú Long",
                 "Xã La Dạ",
                 "Xã Đông Tiến",
                 "Xã Thuận Hòa",
@@ -8776,7 +8776,7 @@
                 "Xã Đa Mi"
             ],
             "Huyện Hàm Thuận Nam": [
-                "Thị Trấn Thuận Nam",
+                "Thị trấn Thuận Nam",
                 "Xã Mỹ Thạnh",
                 "Xã Hàm Cần",
                 "Xã Mương Mán",
@@ -8791,7 +8791,7 @@
                 "Xã Tân Thành"
             ],
             "Huyện Tánh Linh": [
-                "Thị Trấn Lạc Tánh",
+                "Thị trấn Lạc Tánh",
                 "Xã Bắc Ruộng",
                 "Xã Nghị Đức",
                 "Xã La Ngâu",
@@ -8806,8 +8806,8 @@
                 "Xã Suối Kiết"
             ],
             "Huyện Đức Linh": [
-                "Thị Trấn Võ Xu",
-                "Thị Trấn Đức Tài",
+                "Thị trấn Võ Xu",
+                "Thị trấn Đức Tài",
                 "Xã Đa Kai",
                 "Xã Sùng Nhơn",
                 "Xã Mê Pu",
@@ -8820,8 +8820,8 @@
                 "Xã Trà Tân"
             ],
             "Huyện Hàm Tân": [
-                "Thị Trấn Tân Minh",
-                "Thị Trấn Tân Nghĩa",
+                "Thị trấn Tân Minh",
+                "Thị trấn Tân Nghĩa",
                 "Xã Sông Phan",
                 "Xã Tân Phúc",
                 "Xã Tân Đức",
@@ -8862,7 +8862,7 @@
                 "Xã Hòa Bình"
             ],
             "Huyện Đắk Glei": [
-                "Thị Trấn Đắk Glei",
+                "Thị trấn Đắk Glei",
                 "Xã Đắk Blô",
                 "Xã Đắk Man",
                 "Xã Đắk Nhoong",
@@ -8872,11 +8872,11 @@
                 "Xã Mường Hoong",
                 "Xã Ngọc Linh",
                 "Xã Đắk Long",
-                "Xã Đắk Kroong",
+                "Xã Đắk KRoong",
                 "Xã Đắk Môn"
             ],
             "Huyện Ngọc Hồi": [
-                "Thị Trấn Plei Kần",
+                "Thị trấn Plei Kần",
                 "Xã Đắk Ang",
                 "Xã Đắk Dục",
                 "Xã Đắk Nông",
@@ -8886,7 +8886,7 @@
                 "Xã Sa Loong"
             ],
             "Huyện Đắk Tô": [
-                "Thị Trấn Đắk Tô",
+                "Thị trấn Đắk Tô",
                 "Xã Đắk Rơ Nga",
                 "Xã Ngọk Tụ",
                 "Xã Đắk Trăm",
@@ -8904,11 +8904,11 @@
                 "Xã Ngok Tem",
                 "Xã Pờ Ê",
                 "Xã Măng Cành",
-                "Thị Trấn Măng Đen",
+                "Thị trấn Măng Đen",
                 "Xã Hiếu"
             ],
             "Huyện Kon Rẫy": [
-                "Thị Trấn Đắk Rve",
+                "Thị trấn Đắk Rve",
                 "Xã Đắk Kôi",
                 "Xã Đắk Tơ Lung",
                 "Xã Đắk Ruồng",
@@ -8917,10 +8917,10 @@
                 "Xã Tân Lập"
             ],
             "Huyện Đắk Hà": [
-                "Thị Trấn Đắk Hà",
-                "Xã Đắk Pxi",
+                "Thị trấn Đắk Hà",
+                "Xã Đắk PXi",
                 "Xã Đăk Long",
-                "Xã Đắk Hring",
+                "Xã Đắk HRing",
                 "Xã Đắk Ui",
                 "Xã Đăk Ngọk",
                 "Xã Đắk Mar",
@@ -8930,7 +8930,7 @@
                 "Xã Đắk La"
             ],
             "Huyện Sa Thầy": [
-                "Thị Trấn Sa Thầy",
+                "Thị trấn Sa Thầy",
                 "Xã Rơ Kơi",
                 "Xã Sa Nhơn",
                 "Xã Hơ Moong",
@@ -8940,7 +8940,7 @@
                 "Xã Sa Bình",
                 "Xã Ya Xiêr",
                 "Xã Ya Tăng",
-                "Xã Ya Ly"
+                "Xã Ya ly"
             ],
             "Huyện Tu Mơ Rông": [
                 "Xã Ngọc Lây",
@@ -9004,29 +9004,29 @@
                 "Phường Hòa Bình",
                 "Phường Đoàn Kết",
                 "Phường Sông Bờ",
-                "Xã Ia Rbol",
+                "Xã Ia RBol",
                 "Xã Chư Băh",
-                "Xã Ia Rtô",
+                "Xã Ia RTô",
                 "Xã Ia Sao"
             ],
             "Huyện Kbang": [
-                "Thị Trấn Kbang",
+                "Thị trấn KBang",
                 "Xã Kon Pne",
                 "Xã Đăk Roong",
                 "Xã Sơn Lang",
-                "Xã Krong",
+                "Xã KRong",
                 "Xã Sơ Pai",
                 "Xã Lơ Ku",
                 "Xã Đông",
-                "Xã Đak Smar",
+                "Xã Đak SMar",
                 "Xã Nghĩa An",
                 "Xã Tơ Tung",
                 "Xã Kông Lơng Khơng",
                 "Xã Kông Pla",
-                "Xã Đăk Hlơ"
+                "Xã Đăk HLơ"
             ],
             "Huyện Đăk Đoa": [
-                "Thị Trấn Đăk Đoa",
+                "Thị trấn Đăk Đoa",
                 "Xã Hà Đông",
                 "Xã Đăk Sơmei",
                 "Xã Đăk Krong",
@@ -9040,16 +9040,16 @@
                 "Xã Glar",
                 "Xã A Dơk",
                 "Xã Trang",
-                "Xã Hnol",
+                "Xã HNol",
                 "Xã Ia Pết",
                 "Xã Ia Băng"
             ],
             "Huyện Chư Păh": [
-                "Thị Trấn Phú Hòa",
+                "Thị trấn Phú Hòa",
                 "Xã Hà Tây",
                 "Xã Ia Khươl",
                 "Xã Ia Phí",
-                "Thị Trấn Ia Ly",
+                "Thị trấn Ia Ly",
                 "Xã Ia Mơ Nông",
                 "Xã Ia Kreng",
                 "Xã Đăk Tơ Ver",
@@ -9061,13 +9061,13 @@
                 "Xã Nghĩa Hưng"
             ],
             "Huyện Ia Grai": [
-                "Thị Trấn Ia Kha",
+                "Thị trấn Ia Kha",
                 "Xã Ia Sao",
                 "Xã Ia Yok",
                 "Xã Ia Hrung",
                 "Xã Ia Bă",
                 "Xã Ia Khai",
-                "Xã Ia Krai",
+                "Xã Ia KRai",
                 "Xã Ia Grăng",
                 "Xã Ia Tô",
                 "Xã Ia O",
@@ -9076,7 +9076,7 @@
                 "Xã Ia Pếch"
             ],
             "Huyện Mang Yang": [
-                "Thị Trấn Kon Dơng",
+                "Thị trấn Kon Dơng",
                 "Xã Ayun",
                 "Xã Đak Jơ Ta",
                 "Xã Đak Ta Ley",
@@ -9090,12 +9090,12 @@
                 "Xã Đăk Trôi"
             ],
             "Huyện Kông Chro": [
-                "Thị Trấn Kông Chro",
+                "Thị trấn Kông Chro",
                 "Xã Chư Krêy",
                 "Xã An Trung",
                 "Xã Kông Yang",
                 "Xã Đăk Tơ Pang",
-                "Xã Sró",
+                "Xã SRó",
                 "Xã Đắk Kơ Ning",
                 "Xã Đăk Song",
                 "Xã Đăk Pling",
@@ -9106,7 +9106,7 @@
                 "Xã Yang Nam"
             ],
             "Huyện Đức Cơ": [
-                "Thị Trấn Chư Ty",
+                "Thị trấn Chư Ty",
                 "Xã Ia Dơk",
                 "Xã Ia Krêl",
                 "Xã Ia Din",
@@ -9118,7 +9118,7 @@
                 "Xã Ia Nan"
             ],
             "Huyện Chư Prông": [
-                "Thị Trấn Chư Prông",
+                "Thị trấn Chư Prông",
                 "Xã Ia Kly",
                 "Xã Bình Giáo",
                 "Xã Ia Drăng",
@@ -9140,16 +9140,16 @@
                 "Xã Ia Mơ"
             ],
             "Huyện Chư Sê": [
-                "Thị Trấn Chư Sê",
+                "Thị trấn Chư Sê",
                 "Xã Ia Tiêm",
                 "Xã Chư Pơng",
                 "Xã Bar Măih",
                 "Xã Bờ Ngoong",
                 "Xã Ia Glai",
-                "Xã Al Bá",
-                "Xã Kông Htok",
-                "Xã Ayun",
-                "Xã Ia Hlốp",
+                "Xã AL Bá",
+                "Xã Kông HTok",
+                "Xã AYun",
+                "Xã Ia HLốp",
                 "Xã Ia Blang",
                 "Xã Dun",
                 "Xã Ia Pal",
@@ -9159,7 +9159,7 @@
             "Huyện Đăk Pơ": [
                 "Xã Hà Tam",
                 "Xã An Thành",
-                "Thị Trấn Đak Pơ",
+                "Thị trấn Đak Pơ",
                 "Xã Yang Bắc",
                 "Xã Cư An",
                 "Xã Tân An",
@@ -9169,7 +9169,7 @@
             "Huyện Ia Pa": [
                 "Xã Pờ Tó",
                 "Xã Chư Răng",
-                "Xã Ia Kdăm",
+                "Xã Ia KDăm",
                 "Xã Kim Tân",
                 "Xã Chư Mố",
                 "Xã Ia Tul",
@@ -9178,23 +9178,23 @@
                 "Xã Ia Trok"
             ],
             "Huyện Krông Pa": [
-                "Thị Trấn Phú Túc",
-                "Xã Ia Rsai",
-                "Xã Ia Rsươm",
+                "Thị trấn Phú Túc",
+                "Xã Ia RSai",
+                "Xã Ia RSươm",
                 "Xã Chư Gu",
                 "Xã Đất Bằng",
                 "Xã Ia Mláh",
                 "Xã Chư Drăng",
                 "Xã Phú Cần",
-                "Xã Ia Hdreh",
-                "Xã Ia Rmok",
+                "Xã Ia HDreh",
+                "Xã Ia RMok",
                 "Xã Chư Ngọc",
                 "Xã Uar",
                 "Xã Chư Rcăm",
                 "Xã Krông Năng"
             ],
             "Huyện Phú Thiện": [
-                "Thị Trấn Phú Thiện",
+                "Thị trấn Phú Thiện",
                 "Xã Chư A Thai",
                 "Xã Ayun Hạ",
                 "Xã Ia Ake",
@@ -9206,7 +9206,7 @@
                 "Xã Ia Yeng"
             ],
             "Huyện Chư Pưh": [
-                "Thị Trấn Nhơn Hoà",
+                "Thị trấn Nhơn Hoà",
                 "Xã Ia Hrú",
                 "Xã Ia Rong",
                 "Xã Ia Dreng",
@@ -9214,7 +9214,7 @@
                 "Xã Chư Don",
                 "Xã Ia Phang",
                 "Xã Ia Le",
-                "Xã Ia Blứ"
+                "Xã Ia BLứ"
             ]
         },
         "Tỉnh Đắk Lắk": {
@@ -9233,7 +9233,7 @@
                 "Phường Ea Tam",
                 "Phường Khánh Xuân",
                 "Xã Hòa Thuận",
-                "Xã Cư Êbur",
+                "Xã Cư ÊBur",
                 "Xã Ea Tu",
                 "Xã Hòa Thắng",
                 "Xã Ea Kao",
@@ -9256,8 +9256,8 @@
                 "Xã Cư Bao"
             ],
             "Huyện Ea H'Leo": [
-                "Thị Trấn Ea Drăng",
-                "Xã Ea H'Leo",
+                "Thị trấn Ea Drăng",
+                "Xã Ea H'leo",
                 "Xã Ea Sol",
                 "Xã Ea Ral",
                 "Xã Ea Wy",
@@ -9270,14 +9270,14 @@
                 "Xã Ea Nam"
             ],
             "Huyện Ea Súp": [
-                "Thị Trấn Ea Súp",
+                "Thị trấn Ea Súp",
                 "Xã Ia Lốp",
-                "Xã Ia Jlơi",
+                "Xã Ia JLơi",
                 "Xã Ea Rốk",
                 "Xã Ya Tờ Mốt",
-                "Xã Ia Rvê",
+                "Xã Ia RVê",
                 "Xã Ea Lê",
-                "Xã Cư Kbang",
+                "Xã Cư KBang",
                 "Xã Ea Bung",
                 "Xã Cư M'Lan"
             ],
@@ -9286,32 +9286,32 @@
                 "Xã Ea Huar",
                 "Xã Ea Wer",
                 "Xã Tân Hoà",
-                "Xã Cuôr Knia",
+                "Xã Cuôr KNia",
                 "Xã Ea Bar",
                 "Xã Ea Nuôl"
             ],
             "Huyện Cư M'Gar": [
-                "Thị Trấn Ea Pốk",
-                "Thị Trấn Quảng Phú",
+                "Thị trấn Ea Pốk",
+                "Thị trấn Quảng Phú",
                 "Xã Quảng Tiến",
                 "Xã Ea Kuêh",
                 "Xã Ea Kiết",
                 "Xã Ea Tar",
-                "Xã Cư Dliê M'Nông",
-                "Xã Ea H'Đinh",
+                "Xã Cư Dliê M'nông",
+                "Xã Ea H'đinh",
                 "Xã Ea Tul",
-                "Xã Ea Kpam",
-                "Xã Ea M'Dróh",
+                "Xã Ea KPam",
+                "Xã Ea M'DRóh",
                 "Xã Quảng Hiệp",
-                "Xã Cư M'Gar",
+                "Xã Cư M'gar",
                 "Xã Ea D'Rơng",
-                "Xã Ea M'Nang",
+                "Xã Ea M'nang",
                 "Xã Cư Suê",
                 "Xã Cuor Đăng"
             ],
             "Huyện Krông Búk": [
                 "Xã Cư Né",
-                "Xã Chư Kbô",
+                "Xã Chư KBô",
                 "Xã Cư Pơng",
                 "Xã Ea Sin",
                 "Xã Pơng Drang",
@@ -9319,8 +9319,8 @@
                 "Xã Ea Ngai"
             ],
             "Huyện Krông Năng": [
-                "Thị Trấn Krông Năng",
-                "Xã Đliê Ya",
+                "Thị trấn Krông Năng",
+                "Xã ĐLiê Ya",
                 "Xã Ea Tóh",
                 "Xã Ea Tam",
                 "Xã Phú Lộc",
@@ -9333,8 +9333,8 @@
                 "Xã Ea Tân"
             ],
             "Huyện Ea Kar": [
-                "Thị Trấn Ea Kar",
-                "Thị Trấn Ea Knốp",
+                "Thị trấn Ea Kar",
+                "Thị trấn Ea Knốp",
                 "Xã Ea Sô",
                 "Xã Ea Sar",
                 "Xã Xuân Phú",
@@ -9346,29 +9346,29 @@
                 "Xã Ea Păl",
                 "Xã Cư Prông",
                 "Xã Ea Ô",
-                "Xã Cư Elang",
+                "Xã Cư ELang",
                 "Xã Cư Bông",
                 "Xã Cư Jang"
             ],
             "Huyện M'Đrắk": [
-                "Thị Trấn M'Đrắk",
+                "Thị trấn M'Đrắk",
                 "Xã Cư Prao",
                 "Xã Ea Pil",
                 "Xã Ea Lai",
-                "Xã Ea H'Mlay",
+                "Xã Ea H'MLay",
                 "Xã Krông Jing",
                 "Xã Ea M' Doal",
                 "Xã Ea Riêng",
-                "Xã Cư M'Ta",
+                "Xã Cư M'ta",
                 "Xã Cư K Róa",
                 "Xã Krông Á",
                 "Xã Cư San",
                 "Xã Ea Trang"
             ],
             "Huyện Krông Bông": [
-                "Thị Trấn Krông Kmar",
+                "Thị trấn Krông Kmar",
                 "Xã Dang Kang",
-                "Xã Cư Kty",
+                "Xã Cư KTy",
                 "Xã Hòa Thành",
                 "Xã Hòa Tân",
                 "Xã Hòa Phong",
@@ -9382,12 +9382,12 @@
                 "Xã Yang Mao"
             ],
             "Huyện Krông Pắc": [
-                "Thị Trấn Phước An",
-                "Xã Krông Búk",
+                "Thị trấn Phước An",
+                "Xã KRông Búk",
                 "Xã Ea Kly",
                 "Xã Ea Kênh",
                 "Xã Ea Phê",
-                "Xã Ea Knuec",
+                "Xã Ea KNuec",
                 "Xã Ea Yông",
                 "Xã Hòa An",
                 "Xã Ea Kuăng",
@@ -9400,17 +9400,17 @@
                 "Xã Ea Yiêng"
             ],
             "Huyện Krông A Na": [
-                "Thị Trấn Buôn Trấp",
+                "Thị trấn Buôn Trấp",
                 "Xã Dray Sáp",
                 "Xã Ea Na",
                 "Xã Ea Bông",
                 "Xã Băng A Drênh",
-                "Xã Dur Kmăl",
+                "Xã Dur KMăl",
                 "Xã Bình Hòa",
                 "Xã Quảng Điền"
             ],
             "Huyện Lắk": [
-                "Thị Trấn Liên Sơn",
+                "Thị trấn Liên Sơn",
                 "Xã Yang Tao",
                 "Xã Bông Krang",
                 "Xã Đắk Liêng",
@@ -9427,7 +9427,7 @@
                 "Xã Cư Ê Wi",
                 "Xã Ea Ktur",
                 "Xã Ea Tiêu",
-                "Xã Ea Bhốk",
+                "Xã Ea BHốk",
                 "Xã Ea Hu",
                 "Xã Dray Bhăng",
                 "Xã Hòa Hiệp"
@@ -9454,17 +9454,17 @@
                 "Xã Đắk Som"
             ],
             "Huyện Cư Jút": [
-                "Thị Trấn Ea T'Ling",
+                "Thị trấn Ea T'Ling",
                 "Xã Đắk Wil",
                 "Xã Ea Pô",
                 "Xã Nam Dong",
-                "Xã Đắk Drông",
+                "Xã Đắk DRông",
                 "Xã Tâm Thắng",
                 "Xã Cư Knia",
                 "Xã Trúc Sơn"
             ],
             "Huyện Đắk Mil": [
-                "Thị Trấn Đắk Mil",
+                "Thị trấn Đắk Mil",
                 "Xã  Đắk Lao",
                 "Xã Đắk R'La",
                 "Xã Đắk Gằn",
@@ -9476,7 +9476,7 @@
                 "Xã Đức Minh"
             ],
             "Huyện Krông Nô": [
-                "Thị Trấn Đắk Mâm",
+                "Thị trấn Đắk Mâm",
                 "Xã Đắk Sôr",
                 "Xã Nam Xuân",
                 "Xã Buôn Choah",
@@ -9490,7 +9490,7 @@
                 "Xã Nâm N'Đir"
             ],
             "Huyện Đắk Song": [
-                "Thị Trấn Đức An",
+                "Thị trấn Đức An",
                 "Xã Đắk Môl",
                 "Xã Đắk Hòa",
                 "Xã Nam Bình",
@@ -9501,7 +9501,7 @@
                 "Xã Trường Xuân"
             ],
             "Huyện Đắk R'Lấp": [
-                "Thị Trấn Kiến Đức",
+                "Thị trấn Kiến Đức",
                 "Xã Quảng Tín",
                 "Xã Đắk Wer",
                 "Xã Nhân Cơ",
@@ -9546,7 +9546,7 @@
                 "Phường Lộc Tiến",
                 "Phường 2",
                 "Phường 1",
-                "Phường B'Lao",
+                "Phường B'lao",
                 "Phường Lộc Sơn",
                 "Xã Đạm Bri",
                 "Xã Lộc Thanh",
@@ -9565,16 +9565,16 @@
                 "Xã Đạ K' Nàng"
             ],
             "Huyện Lạc Dương": [
-                "Thị Trấn Lạc Dương",
+                "Thị trấn Lạc Dương",
                 "Xã Đạ Chais",
                 "Xã Đạ Nhim",
-                "Xã Đưng Knớ",
+                "Xã Đưng KNớ",
                 "Xã Lát",
                 "Xã Đạ Sar"
             ],
             "Huyện Lâm Hà": [
-                "Thị Trấn Nam Ban",
-                "Thị Trấn Đinh Văn",
+                "Thị trấn Nam Ban",
+                "Thị trấn Đinh Văn",
                 "Xã Phú Sơn",
                 "Xã Phi Tô",
                 "Xã Mê Linh",
@@ -9591,8 +9591,8 @@
                 "Xã Nam Hà"
             ],
             "Huyện Đơn Dương": [
-                "Thị Trấn D'Ran",
-                "Thị Trấn Thạnh Mỹ",
+                "Thị trấn D'Ran",
+                "Thị trấn Thạnh Mỹ",
                 "Xã Lạc Xuân",
                 "Xã Đạ Ròn",
                 "Xã Lạc Lâm",
@@ -9603,7 +9603,7 @@
                 "Xã Pró"
             ],
             "Huyện Đức Trọng": [
-                "Thị Trấn Liên Nghĩa",
+                "Thị trấn Liên Nghĩa",
                 "Xã Hiệp An",
                 "Xã Liên Hiệp",
                 "Xã Hiệp Thạnh",
@@ -9620,7 +9620,7 @@
                 "Xã Ninh Loan"
             ],
             "Huyện Di Linh": [
-                "Thị Trấn Di Linh",
+                "Thị trấn Di Linh",
                 "Xã Đinh Trang Thượng",
                 "Xã Tân Thượng",
                 "Xã Tân Lâm",
@@ -9641,7 +9641,7 @@
                 "Xã Gia Bắc"
             ],
             "Huyện Bảo Lâm": [
-                "Thị Trấn Lộc Thắng",
+                "Thị trấn Lộc Thắng",
                 "Xã Lộc Bảo",
                 "Xã Lộc Lâm",
                 "Xã Lộc Phú",
@@ -9657,8 +9657,8 @@
                 "Xã Lộc Nam"
             ],
             "Huyện Đạ Huoai": [
-                "Thị Trấn Đạ M'Ri",
-                "Thị Trấn Ma Đa Guôi",
+                "Thị trấn Đạ M'ri",
+                "Thị trấn Ma Đa Guôi",
                 "Xã Hà Lâm",
                 "Xã Đạ Tồn",
                 "Xã Đạ Oai",
@@ -9668,7 +9668,7 @@
                 "Xã Phước Lộc"
             ],
             "Huyện Đạ Tẻh": [
-                "Thị Trấn Đạ Tẻh",
+                "Thị trấn Đạ Tẻh",
                 "Xã An Nhơn",
                 "Xã Quốc Oai",
                 "Xã Mỹ Đức",
@@ -9679,12 +9679,12 @@
                 "Xã Đạ Pal"
             ],
             "Huyện Cát Tiên": [
-                "Thị Trấn Cát Tiên",
+                "Thị trấn Cát Tiên",
                 "Xã Tiên Hoàng",
                 "Xã Phước Cát 2",
                 "Xã Gia Viễn",
                 "Xã Nam Ninh",
-                "Thị Trấn Phước Cát ",
+                "Thị trấn Phước Cát ",
                 "Xã Đức Phổ",
                 "Xã Quảng Ngãi",
                 "Xã Đồng Nai Thượng"
@@ -9729,7 +9729,7 @@
                 "Xã Phú Nghĩa"
             ],
             "Huyện Lộc Ninh": [
-                "Thị Trấn Lộc Ninh",
+                "Thị trấn Lộc Ninh",
                 "Xã Lộc Hòa",
                 "Xã Lộc An",
                 "Xã Lộc Tấn",
@@ -9747,7 +9747,7 @@
                 "Xã Lộc Khánh"
             ],
             "Huyện Bù Đốp": [
-                "Thị Trấn Thanh Bình",
+                "Thị trấn Thanh Bình",
                 "Xã Hưng Phước",
                 "Xã Phước Thiện",
                 "Xã Thiện Hưng",
@@ -9765,13 +9765,13 @@
                 "Xã Minh Tâm",
                 "Xã Phước An",
                 "Xã Thanh Bình",
-                "Thị Trấn Tân Khai",
+                "Thị trấn Tân Khai",
                 "Xã Đồng Nơ",
                 "Xã Tân Hiệp",
                 "Xã Tân Quan"
             ],
             "Huyện Đồng Phú": [
-                "Thị Trấn Tân Phú",
+                "Thị trấn Tân Phú",
                 "Xã Thuận Lợi",
                 "Xã Đồng Tâm",
                 "Xã Tân Phước",
@@ -9784,7 +9784,7 @@
                 "Xã Tân Tiến"
             ],
             "Huyện Bù Đăng": [
-                "Thị Trấn Đức Phong",
+                "Thị trấn Đức Phong",
                 "Xã Đường 10",
                 "Xã Đak Nhau",
                 "Xã Phú Sơn",
@@ -9802,7 +9802,7 @@
                 "Xã Phước Sơn"
             ],
             "Huyện Chơn Thành": [
-                "Thị Trấn Chơn Thành",
+                "Thị trấn Chơn Thành",
                 "Xã Thành Tâm",
                 "Xã Minh Lập",
                 "Xã Quang Minh",
@@ -9839,7 +9839,7 @@
                 "Phường Ninh Thạnh"
             ],
             "Huyện Tân Biên": [
-                "Thị Trấn Tân Biên",
+                "Thị trấn Tân Biên",
                 "Xã Tân Lập",
                 "Xã Thạnh Bắc",
                 "Xã Tân Bình",
@@ -9851,7 +9851,7 @@
                 "Xã Trà Vong"
             ],
             "Huyện Tân Châu": [
-                "Thị Trấn Tân Châu",
+                "Thị trấn Tân Châu",
                 "Xã Tân Hà",
                 "Xã Tân Đông",
                 "Xã Tân Hội",
@@ -9865,7 +9865,7 @@
                 "Xã Tân Hưng"
             ],
             "Huyện Dương Minh Châu": [
-                "Thị Trấn Dương Minh Châu",
+                "Thị trấn Dương Minh Châu",
                 "Xã Suối Đá",
                 "Xã Phan",
                 "Xã Phước Ninh",
@@ -9878,7 +9878,7 @@
                 "Xã Truông Mít"
             ],
             "Huyện Châu Thành": [
-                "Thị Trấn Châu Thành",
+                "Thị trấn Châu Thành",
                 "Xã Hảo Đước",
                 "Xã Phước Vinh",
                 "Xã Đồng Khởi",
@@ -9905,7 +9905,7 @@
                 "Xã Long Thành Nam"
             ],
             "Huyện Gò Dầu": [
-                "Thị Trấn Gò Dầu",
+                "Thị trấn Gò Dầu",
                 "Xã Thạnh Đức",
                 "Xã Cẩm Giang",
                 "Xã Hiệp Thạnh",
@@ -9916,7 +9916,7 @@
                 "Xã Thanh Phước"
             ],
             "Huyện Bến Cầu": [
-                "Thị Trấn Bến Cầu",
+                "Thị trấn Bến Cầu",
                 "Xã Long Chữ",
                 "Xã Long Phước",
                 "Xã Long Giang",
@@ -9958,15 +9958,15 @@
             ],
             "Huyện Bàu Bàng": [
                 "Xã Trừ Văn Thố",
-                "Xã Cây Trường Ii",
-                "Thị Trấn Lai Uyên",
+                "Xã Cây Trường II",
+                "Thị trấn Lai Uyên",
                 "Xã Tân Hưng",
                 "Xã Long Nguyên",
                 "Xã Hưng Hòa",
                 "Xã Lai Hưng"
             ],
             "Huyện Dầu Tiếng": [
-                "Thị Trấn Dầu Tiếng",
+                "Thị trấn Dầu Tiếng",
                 "Xã Minh Hoà",
                 "Xã Minh Thạnh",
                 "Xã Minh Tân",
@@ -9990,7 +9990,7 @@
                 "Xã Phú An"
             ],
             "Huyện Phú Giáo": [
-                "Thị Trấn Phước Vĩnh",
+                "Thị trấn Phước Vĩnh",
                 "Xã An Linh",
                 "Xã Phước Sang",
                 "Xã An Thái",
@@ -10040,9 +10040,9 @@
             "Huyện Bắc Tân Uyên": [
                 "Xã Tân Định",
                 "Xã Bình Mỹ",
-                "Thị Trấn Tân Bình",
+                "Thị trấn Tân Bình",
                 "Xã Tân Lập",
-                "Thị Trấn Tân Thành",
+                "Thị trấn Tân Thành",
                 "Xã Đất Cuốc",
                 "Xã Hiếu Liêm",
                 "Xã Lạc An",
@@ -10101,7 +10101,7 @@
                 "Xã Hàng Gòn"
             ],
             "Huyện Tân Phú": [
-                "Thị Trấn Tân Phú",
+                "Thị trấn Tân Phú",
                 "Xã Dak Lua",
                 "Xã Nam Cát Tiên",
                 "Xã Phú An",
@@ -10121,7 +10121,7 @@
                 "Xã Phú Điền"
             ],
             "Huyện Vĩnh Cửu": [
-                "Thị Trấn Vĩnh An",
+                "Thị trấn Vĩnh An",
                 "Xã Phú Lý",
                 "Xã Trị An",
                 "Xã Tân An",
@@ -10135,7 +10135,7 @@
                 "Xã Hiếu Liêm"
             ],
             "Huyện Định Quán": [
-                "Thị Trấn Định Quán",
+                "Thị trấn Định Quán",
                 "Xã Thanh Sơn",
                 "Xã Phú Tân",
                 "Xã Phú Vinh",
@@ -10151,7 +10151,7 @@
                 "Xã Suối Nho"
             ],
             "Huyện Trảng Bom": [
-                "Thị Trấn Trảng Bom",
+                "Thị trấn Trảng Bom",
                 "Xã Thanh Bình",
                 "Xã Cây Gáo",
                 "Xã Bàu Hàm",
@@ -10179,14 +10179,14 @@
                 "Xã Hưng Lộc",
                 "Xã Lộ 25",
                 "Xã Xuân Thiện",
-                "Thị Trấn Dầu Giây"
+                "Thị trấn Dầu Giây"
             ],
             "Huyện Cẩm Mỹ": [
                 "Xã Sông Nhạn",
                 "Xã Xuân Quế",
                 "Xã Nhân Nghĩa",
                 "Xã Xuân Đường",
-                "Thị Trấn Long Giao",
+                "Thị trấn Long Giao",
                 "Xã Xuân Mỹ",
                 "Xã Thừa Đức",
                 "Xã Bảo Bình",
@@ -10197,7 +10197,7 @@
                 "Xã Lâm San"
             ],
             "Huyện Long Thành": [
-                "Thị Trấn Long Thành",
+                "Thị trấn Long Thành",
                 "Xã An Phước",
                 "Xã Bình An",
                 "Xã Long Đức",
@@ -10213,7 +10213,7 @@
                 "Xã Phước Thái"
             ],
             "Huyện Xuân Lộc": [
-                "Thị Trấn Gia Ray",
+                "Thị trấn Gia Ray",
                 "Xã Xuân Bắc",
                 "Xã Suối Cao",
                 "Xã Xuân Thành",
@@ -10233,7 +10233,7 @@
                 "Xã Phước Thiền",
                 "Xã Long Tân",
                 "Xã Đại Phước",
-                "Thị Trấn Hiệp Phước",
+                "Thị trấn Hiệp Phước",
                 "Xã Phú Hữu",
                 "Xã Phú Hội",
                 "Xã Phú Thạnh",
@@ -10279,7 +10279,7 @@
             ],
             "Huyện Châu Đức": [
                 "Xã Bàu Chinh",
-                "Thị Trấn Ngãi Giao",
+                "Thị trấn Ngãi Giao",
                 "Xã Bình Ba",
                 "Xã Suối Nghệ",
                 "Xã Xuân Sơn",
@@ -10296,7 +10296,7 @@
                 "Xã Nghĩa Thành"
             ],
             "Huyện Xuyên Mộc": [
-                "Thị Trấn Phước Bửu",
+                "Thị trấn Phước Bửu",
                 "Xã Phước Thuận",
                 "Xã Phước Tân",
                 "Xã Xuyên Mộc",
@@ -10311,8 +10311,8 @@
                 "Xã Bình Châu"
             ],
             "Huyện Long Điền": [
-                "Thị Trấn Long Điền",
-                "Thị Trấn Long Hải",
+                "Thị trấn Long Điền",
+                "Thị trấn Long Hải",
                 "Xã An Ngãi",
                 "Xã Tam Phước",
                 "Xã An Nhứt",
@@ -10320,11 +10320,11 @@
                 "Xã Phước Hưng"
             ],
             "Huyện Đất Đỏ": [
-                "Thị Trấn Đất Đỏ",
+                "Thị trấn Đất Đỏ",
                 "Xã Phước Long Thọ",
                 "Xã Phước Hội",
                 "Xã Long Mỹ",
-                "Thị Trấn Phước Hải",
+                "Thị trấn Phước Hải",
                 "Xã Long Tân",
                 "Xã Láng Dài",
                 "Xã Lộc An"
@@ -10373,7 +10373,7 @@
                 "Xã Thạnh Hưng"
             ],
             "Huyện Tân Hưng": [
-                "Thị Trấn Tân Hưng",
+                "Thị trấn Tân Hưng",
                 "Xã Hưng Hà",
                 "Xã Hưng Điền B",
                 "Xã Hưng Điền",
@@ -10387,7 +10387,7 @@
                 "Xã Vĩnh Bửu"
             ],
             "Huyện Vĩnh Hưng": [
-                "Thị Trấn Vĩnh Hưng",
+                "Thị trấn Vĩnh Hưng",
                 "Xã Hưng Điền A",
                 "Xã Khánh Hưng",
                 "Xã Thái Trị",
@@ -10403,12 +10403,12 @@
                 "Xã Bình Thạnh",
                 "Xã Bình Hòa Trung",
                 "Xã Bình Hòa Đông",
-                "Thị Trấn Bình Phong Thạnh",
+                "Thị trấn Bình Phong Thạnh",
                 "Xã Tân Lập",
                 "Xã Tân Thành"
             ],
             "Huyện Tân Thạnh": [
-                "Thị Trấn Tân Thạnh",
+                "Thị trấn Tân Thạnh",
                 "Xã Bắc Hòa",
                 "Xã Hậu Thạnh Tây",
                 "Xã Nhơn Hòa Lập",
@@ -10423,7 +10423,7 @@
                 "Xã Tân Hòa"
             ],
             "Huyện Thạnh Hóa": [
-                "Thị Trấn Thạnh Hóa",
+                "Thị trấn Thạnh Hóa",
                 "Xã Tân Hiệp",
                 "Xã Thuận Bình",
                 "Xã Thạnh Phước",
@@ -10436,7 +10436,7 @@
                 "Xã Thạnh An"
             ],
             "Huyện Đức Huệ": [
-                "Thị Trấn Đông Thành",
+                "Thị trấn Đông Thành",
                 "Xã Mỹ Quý Đông",
                 "Xã Mỹ Thạnh Bắc",
                 "Xã Mỹ Quý Tây",
@@ -10449,9 +10449,9 @@
                 "Xã Mỹ Bình"
             ],
             "Huyện Đức Hòa": [
-                "Thị Trấn Hậu Nghĩa",
-                "Thị Trấn Hiệp Hòa",
-                "Thị Trấn Đức Hòa",
+                "Thị trấn Hậu Nghĩa",
+                "Thị trấn Hiệp Hòa",
+                "Thị trấn Đức Hòa",
                 "Xã Lộc Giang",
                 "Xã An Ninh Đông",
                 "Xã An Ninh Tây",
@@ -10471,7 +10471,7 @@
                 "Xã Hựu Thạnh"
             ],
             "Huyện Bến Lức": [
-                "Thị Trấn Bến Lức",
+                "Thị trấn Bến Lức",
                 "Xã Thạnh Lợi",
                 "Xã Lương Bình",
                 "Xã Thạnh Hòa",
@@ -10488,7 +10488,7 @@
                 "Xã Nhựt Chánh"
             ],
             "Huyện Thủ Thừa": [
-                "Thị Trấn Thủ Thừa",
+                "Thị trấn Thủ Thừa",
                 "Xã Long Thạnh",
                 "Xã Tân Thành",
                 "Xã Long Thuận",
@@ -10502,7 +10502,7 @@
                 "Xã Tân Long"
             ],
             "Huyện Tân Trụ": [
-                "Thị Trấn Tân Trụ",
+                "Thị trấn Tân Trụ",
                 "Xã Tân Bình",
                 "Xã Quê Mỹ Thạnh",
                 "Xã Lạc Tấn",
@@ -10514,7 +10514,7 @@
                 "Xã Nhựt Ninh"
             ],
             "Huyện Cần Đước": [
-                "Thị Trấn Cần Đước",
+                "Thị trấn Cần Đước",
                 "Xã Long Trạch",
                 "Xã Long Khê",
                 "Xã Long Định",
@@ -10533,7 +10533,7 @@
                 "Xã Tân Chánh"
             ],
             "Huyện Cần Giuộc": [
-                "Thị Trấn Cần Giuộc",
+                "Thị trấn Cần Giuộc",
                 "Xã Phước Lý",
                 "Xã Long Thượng",
                 "Xã Long Hậu",
@@ -10550,7 +10550,7 @@
                 "Xã Tân Tập"
             ],
             "Huyện Châu Thành": [
-                "Thị Trấn Tầm Vu",
+                "Thị trấn Tầm Vu",
                 "Xã Bình Quới",
                 "Xã Hòa Phú",
                 "Xã Phú Ngãi Trị",
@@ -10618,7 +10618,7 @@
                 "Xã Long Khánh"
             ],
             "Huyện Tân Phước": [
-                "Thị Trấn Mỹ Phước",
+                "Thị trấn Mỹ Phước",
                 "Xã Tân Hòa Đông",
                 "Xã Thạnh Tân",
                 "Xã Thạnh Mỹ",
@@ -10632,7 +10632,7 @@
                 "Xã Phước Lập"
             ],
             "Huyện Cái Bè": [
-                "Thị Trấn Cái Bè",
+                "Thị trấn Cái Bè",
                 "Xã Hậu Mỹ Bắc B",
                 "Xã Hậu Mỹ Bắc A",
                 "Xã Mỹ Trung",
@@ -10677,7 +10677,7 @@
                 "Xã Ngũ Hiệp"
             ],
             "Huyện Châu Thành": [
-                "Thị Trấn Tân Hiệp",
+                "Thị trấn Tân Hiệp",
                 "Xã Tân Hội Đông",
                 "Xã Tân Hương",
                 "Xã Tân Lý Đông",
@@ -10702,7 +10702,7 @@
                 "Xã Phú Phong"
             ],
             "Huyện Chợ Gạo": [
-                "Thị Trấn Chợ Gạo",
+                "Thị trấn Chợ Gạo",
                 "Xã Trung Hòa",
                 "Xã Hòa Tịnh",
                 "Xã Mỹ Tịnh An",
@@ -10723,7 +10723,7 @@
                 "Xã Bình Ninh"
             ],
             "Huyện Gò Công Tây": [
-                "Thị Trấn Vĩnh Bình",
+                "Thị trấn Vĩnh Bình",
                 "Xã Đồng Sơn",
                 "Xã Bình Phú",
                 "Xã Đồng Thạnh",
@@ -10738,11 +10738,11 @@
                 "Xã Long Bình"
             ],
             "Huyện Gò Công Đông": [
-                "Thị Trấn Tân Hòa",
+                "Thị trấn Tân Hòa",
                 "Xã Tăng Hoà",
                 "Xã Tân Phước",
                 "Xã Gia Thuận",
-                "Thị Trấn Vàm Láng",
+                "Thị trấn Vàm Láng",
                 "Xã Tân Tây",
                 "Xã Kiểng Phước",
                 "Xã Tân Đông",
@@ -10779,7 +10779,7 @@
                 "Xã Phú Nhuận"
             ],
             "Huyện Châu Thành": [
-                "Thị Trấn Châu Thành",
+                "Thị trấn Châu Thành",
                 "Xã Tân Thạch",
                 "Xã Qưới Sơn",
                 "Xã An Khánh",
@@ -10802,7 +10802,7 @@
                 "Xã Sơn Hòa"
             ],
             "Huyện Chợ Lách": [
-                "Thị Trấn Chợ Lách",
+                "Thị trấn Chợ Lách",
                 "Xã Phú Phụng",
                 "Xã Sơn Định",
                 "Xã Vĩnh Bình",
@@ -10815,7 +10815,7 @@
                 "Xã Hưng Khánh Trung B"
             ],
             "Huyện Mỏ Cày Nam": [
-                "Thị Trấn Mỏ Cày",
+                "Thị trấn Mỏ Cày",
                 "Xã Định Thủy",
                 "Xã Đa Phước Hội",
                 "Xã Tân Hội",
@@ -10833,7 +10833,7 @@
                 "Xã Hương Mỹ"
             ],
             "Huyện Giồng Trôm": [
-                "Thị Trấn Giồng Trôm",
+                "Thị trấn Giồng Trôm",
                 "Xã Phong Nẫm",
                 "Xã Mỹ Thạnh",
                 "Xã Châu Hòa",
@@ -10856,7 +10856,7 @@
                 "Xã Hưng Lễ"
             ],
             "Huyện Bình Đại": [
-                "Thị Trấn Bình Đại",
+                "Thị trấn Bình Đại",
                 "Xã Tam Hiệp",
                 "Xã Long Định",
                 "Xã Long Hòa",
@@ -10878,7 +10878,7 @@
                 "Xã Thới Thuận"
             ],
             "Huyện Ba Tri": [
-                "Thị Trấn Ba Tri",
+                "Thị trấn Ba Tri",
                 "Xã Tân Mỹ",
                 "Xã Mỹ Hòa",
                 "Xã Tân Xuân",
@@ -10903,7 +10903,7 @@
                 "Xã An Thủy"
             ],
             "Huyện Thạnh Phú": [
-                "Thị Trấn Thạnh Phú",
+                "Thị trấn Thạnh Phú",
                 "Xã Phú Khánh",
                 "Xã Đại Điền",
                 "Xã Quới Điền",
@@ -10952,7 +10952,7 @@
                 "Xã Long Đức"
             ],
             "Huyện Càng Long": [
-                "Thị Trấn Càng Long",
+                "Thị trấn Càng Long",
                 "Xã Mỹ Cẩm",
                 "Xã An Trường A",
                 "Xã An Trường",
@@ -10968,7 +10968,7 @@
                 "Xã Đức Mỹ"
             ],
             "Huyện Cầu Kè": [
-                "Thị Trấn Cầu Kè",
+                "Thị trấn Cầu Kè",
                 "Xã Hòa Ân",
                 "Xã Châu Điền",
                 "Xã An Phú Tân",
@@ -10981,8 +10981,8 @@
                 "Xã Thạnh Phú"
             ],
             "Huyện Tiểu Cần": [
-                "Thị Trấn Tiểu Cần",
-                "Thị Trấn Cầu Quan",
+                "Thị trấn Tiểu Cần",
+                "Thị trấn Cầu Quan",
                 "Xã Phú Cần",
                 "Xã Hiếu Tử",
                 "Xã Hiếu Trung",
@@ -10994,7 +10994,7 @@
                 "Xã Tân Hòa"
             ],
             "Huyện Châu Thành": [
-                "Thị Trấn Châu Thành",
+                "Thị trấn Châu Thành",
                 "Xã Đa Lộc",
                 "Xã Mỹ Chánh",
                 "Xã Thanh Mỹ",
@@ -11010,8 +11010,8 @@
                 "Xã Long Hòa"
             ],
             "Huyện Cầu Ngang": [
-                "Thị Trấn Cầu Ngang",
-                "Thị Trấn Mỹ Long",
+                "Thị trấn Cầu Ngang",
+                "Thị trấn Mỹ Long",
                 "Xã Mỹ Long Bắc",
                 "Xã Mỹ Long Nam",
                 "Xã Mỹ Hòa",
@@ -11027,8 +11027,8 @@
                 "Xã Thạnh Hòa Sơn"
             ],
             "Huyện Trà Cú": [
-                "Thị Trấn Trà Cú",
-                "Thị Trấn Định An",
+                "Thị trấn Trà Cú",
+                "Thị trấn Định An",
                 "Xã Phước Hưng",
                 "Xã Tập Sơn",
                 "Xã Tân Sơn",
@@ -11048,7 +11048,7 @@
             "Huyện Duyên Hải": [
                 "Xã Đôn Xuân",
                 "Xã Đôn Châu",
-                "Thị Trấn Long Thành",
+                "Thị trấn Long Thành",
                 "Xã Long Khánh",
                 "Xã Ngũ Lạc",
                 "Xã Long Vĩnh",
@@ -11079,7 +11079,7 @@
                 "Phường Trường An"
             ],
             "Huyện Long Hồ": [
-                "Thị Trấn Long Hồ",
+                "Thị trấn Long Hồ",
                 "Xã Đồng Phú",
                 "Xã Bình Hòa Phước",
                 "Xã Hòa Ninh",
@@ -11102,7 +11102,7 @@
                 "Xã Nhơn Phú",
                 "Xã Long Mỹ",
                 "Xã Hòa Tịnh",
-                "Thị Trấn Cái Nhum",
+                "Thị trấn Cái Nhum",
                 "Xã Bình Phước",
                 "Xã Chánh An",
                 "Xã Tân An Hội",
@@ -11110,7 +11110,7 @@
                 "Xã Tân Long Hội"
             ],
             "Huyện  Vũng Liêm": [
-                "Thị Trấn Vũng Liêm",
+                "Thị trấn Vũng Liêm",
                 "Xã Tân Quới Trung",
                 "Xã Quới Thiện",
                 "Xã Quới An",
@@ -11132,7 +11132,7 @@
                 "Xã Hiếu Nghĩa"
             ],
             "Huyện Tam Bình": [
-                "Thị Trấn Tam Bình",
+                "Thị trấn Tam Bình",
                 "Xã Tân Lộc",
                 "Xã Phú Thịnh",
                 "Xã Hậu Lộc",
@@ -11161,7 +11161,7 @@
                 "Xã Đông Thành"
             ],
             "Huyện Trà Ôn": [
-                "Thị Trấn Trà Ôn",
+                "Thị trấn Trà Ôn",
                 "Xã Xuân Hiệp",
                 "Xã Nhơn Bình",
                 "Xã Hòa Bình",
@@ -11186,7 +11186,7 @@
                 "Xã Thành Lợi",
                 "Xã Mỹ Thuận",
                 "Xã Tân Bình",
-                "Thị Trấn Tân Quới"
+                "Thị trấn Tân Quới"
             ]
         },
         "Tỉnh Đồng Tháp": {
@@ -11228,7 +11228,7 @@
                 "Phường An Bình A"
             ],
             "Huyện Tân Hồng": [
-                "Thị Trấn Sa Rài",
+                "Thị trấn Sa Rài",
                 "Xã Tân Hộ Cơ",
                 "Xã Thông Bình",
                 "Xã Bình Phú",
@@ -11241,7 +11241,7 @@
             "Huyện Hồng Ngự": [
                 "Xã Thường Phước 1",
                 "Xã Thường Thới Hậu A",
-                "Thị Trấn Thường Thới Tiền",
+                "Thị trấn Thường Thới Tiền",
                 "Xã Thường Phước 2",
                 "Xã Thường Lạc",
                 "Xã Long Khánh A",
@@ -11251,7 +11251,7 @@
                 "Xã Phú Thuận A"
             ],
             "Huyện Tam Nông": [
-                "Thị Trấn Tràm Chim",
+                "Thị trấn Tràm Chim",
                 "Xã Hoà Bình",
                 "Xã Tân Công Sính",
                 "Xã Phú Hiệp",
@@ -11265,7 +11265,7 @@
                 "Xã Phú Thành A"
             ],
             "Huyện Tháp Mười": [
-                "Thị Trấn Mỹ An",
+                "Thị trấn Mỹ An",
                 "Xã Thạnh Lợi",
                 "Xã Hưng Thạnh",
                 "Xã Trường Xuân",
@@ -11280,7 +11280,7 @@
                 "Xã Thanh Mỹ"
             ],
             "Huyện Cao Lãnh": [
-                "Thị Trấn Mỹ Thọ",
+                "Thị trấn Mỹ Thọ",
                 "Xã Gáo Giồng",
                 "Xã Phương Thịnh",
                 "Xã Ba Sao",
@@ -11300,7 +11300,7 @@
                 "Xã Bình Thạnh"
             ],
             "Huyện Thanh Bình": [
-                "Thị Trấn Thanh Bình",
+                "Thị trấn Thanh Bình",
                 "Xã Tân Quới",
                 "Xã Tân Hòa",
                 "Xã An Phong",
@@ -11315,7 +11315,7 @@
                 "Xã Tân Long"
             ],
             "Huyện Lấp Vò": [
-                "Thị Trấn Lấp Vò",
+                "Thị trấn Lấp Vò",
                 "Xã Mỹ An Hưng A",
                 "Xã Tân Mỹ",
                 "Xã Mỹ An Hưng B",
@@ -11330,7 +11330,7 @@
                 "Xã Bình Thạnh Trung"
             ],
             "Huyện Lai Vung": [
-                "Thị Trấn Lai Vung",
+                "Thị trấn Lai Vung",
                 "Xã Tân Dương",
                 "Xã Hòa Thành",
                 "Xã Long Hậu",
@@ -11344,7 +11344,7 @@
                 "Xã Phong Hòa"
             ],
             "Huyện Châu Thành": [
-                "Thị Trấn Cái Tàu Hạ",
+                "Thị trấn Cái Tàu Hạ",
                 "Xã An Hiệp",
                 "Xã An Nhơn",
                 "Xã Tân Nhuận Đông",
@@ -11384,7 +11384,7 @@
                 "Xã Vĩnh Châu"
             ],
             "Huyện An Phú": [
-                "Thị Trấn An Phú",
+                "Thị trấn An Phú",
                 "Xã Khánh An",
                 "Thị Trấn Long Bình",
                 "Xã Khánh Bình",
@@ -11416,8 +11416,8 @@
                 "Phường Long Sơn"
             ],
             "Huyện Phú Tân": [
-                "Thị Trấn Phú Mỹ",
-                "Thị Trấn Chợ Vàm",
+                "Thị trấn Phú Mỹ",
+                "Thị trấn Chợ Vàm",
                 "Xã Long Hoà",
                 "Xã Phú Long",
                 "Xã Phú Lâm",
@@ -11436,12 +11436,12 @@
                 "Xã Tân Trung"
             ],
             "Huyện Châu Phú": [
-                "Thị Trấn Cái Dầu",
+                "Thị trấn Cái Dầu",
                 "Xã Khánh Hòa",
                 "Xã Mỹ Đức",
                 "Xã Mỹ Phú",
                 "Xã Ô Long Vỹ",
-                "Thị Trấn Vĩnh Thạnh Trung",
+                "Thị trấn Vĩnh Thạnh Trung",
                 "Xã Thạnh Mỹ Tây",
                 "Xã Bình Long",
                 "Xã Bình Mỹ",
@@ -11451,13 +11451,13 @@
                 "Xã Bình Chánh"
             ],
             "Huyện Tịnh Biên": [
-                "Thị Trấn Nhà Bàng",
-                "Thị Trấn Chi Lăng",
+                "Thị trấn Nhà Bàng",
+                "Thị trấn Chi Lăng",
                 "Xã Núi Voi",
                 "Xã Nhơn Hưng",
                 "Xã An Phú",
                 "Xã Thới Sơn",
-                "Thị Trấn Tịnh Biên",
+                "Thị trấn Tịnh Biên",
                 "Xã Văn Giáo",
                 "Xã An Cư",
                 "Xã An Nông",
@@ -11467,8 +11467,8 @@
                 "Xã Tân Lập"
             ],
             "Huyện Tri Tôn": [
-                "Thị Trấn Tri Tôn",
-                "Thị Trấn Ba Chúc",
+                "Thị trấn Tri Tôn",
+                "Thị trấn Ba Chúc",
                 "Xã Lạc Quới",
                 "Xã Lê Trì",
                 "Xã Vĩnh Gia",
@@ -11479,17 +11479,17 @@
                 "Xã Tà Đảnh",
                 "Xã Núi Tô",
                 "Xã An Tức",
-                "Thị Trấn Cô Tô",
+                "Thị trấn Cô Tô",
                 "Xã Tân Tuyến",
                 "Xã Ô Lâm"
             ],
             "Huyện Châu Thành": [
-                "Thị Trấn An Châu",
+                "Thị trấn An Châu",
                 "Xã An Hòa",
                 "Xã Cần Đăng",
                 "Xã Vĩnh Hanh",
                 "Xã Bình Thạnh",
-                "Thị Trấn Vĩnh Bình",
+                "Thị trấn Vĩnh Bình",
                 "Xã Bình Hòa",
                 "Xã Vĩnh An",
                 "Xã Hòa Bình Thạnh",
@@ -11499,8 +11499,8 @@
                 "Xã Vĩnh Thành"
             ],
             "Huyện Chợ Mới": [
-                "Thị Trấn Chợ Mới",
-                "Thị Trấn Mỹ Luông",
+                "Thị trấn Chợ Mới",
+                "Thị trấn Mỹ Luông",
                 "Xã Kiến An",
                 "Xã Mỹ Hội Đông",
                 "Xã Long Điền A",
@@ -11519,8 +11519,8 @@
                 "Xã Hòa An"
             ],
             "Huyện Thoại Sơn": [
-                "Thị Trấn Núi Sập",
-                "Thị Trấn Phú Hoà",
+                "Thị trấn Núi Sập",
+                "Thị trấn Phú Hoà",
                 "Thị Trấn Óc Eo",
                 "Xã Tây Phú",
                 "Xã An Bình",
@@ -11563,7 +11563,7 @@
                 "Xã Thuận Yên"
             ],
             "Huyện Kiên Lương": [
-                "Thị Trấn Kiên Lương",
+                "Thị trấn Kiên Lương",
                 "Xã Kiên Bình",
                 "Xã Hòa Điền",
                 "Xã Dương Hòa",
@@ -11573,8 +11573,8 @@
                 "Xã Hòn Nghệ"
             ],
             "Huyện Hòn Đất": [
-                "Thị Trấn Hòn Đất",
-                "Thị Trấn Sóc Sơn",
+                "Thị trấn Hòn Đất",
+                "Thị trấn Sóc Sơn",
                 "Xã Bình Sơn",
                 "Xã Bình Giang",
                 "Xã Mỹ Thái",
@@ -11589,7 +11589,7 @@
                 "Xã Mỹ Phước"
             ],
             "Huyện Tân Hiệp": [
-                "Thị Trấn Tân Hiệp",
+                "Thị trấn Tân Hiệp",
                 "Xã Tân Hội",
                 "Xã Tân Thành",
                 "Xã Tân Hiệp B",
@@ -11602,7 +11602,7 @@
                 "Xã Thạnh Trị"
             ],
             "Huyện Châu Thành": [
-                "Thị Trấn Minh Lương",
+                "Thị trấn Minh Lương",
                 "Xã Mong Thọ A",
                 "Xã Mong Thọ B",
                 "Xã Mong Thọ",
@@ -11635,7 +11635,7 @@
                 "Xã Ngọc Hoà"
             ],
             "Huyện Gò Quao": [
-                "Thị Trấn Gò Quao",
+                "Thị trấn Gò Quao",
                 "Xã Vĩnh Hòa Hưng Bắc",
                 "Xã Định Hòa",
                 "Xã Thới Quản",
@@ -11648,7 +11648,7 @@
                 "Xã Vĩnh Thắng"
             ],
             "Huyện An Biên": [
-                "Thị Trấn Thứ Ba",
+                "Thị trấn Thứ Ba",
                 "Xã Tây Yên",
                 "Xã Tây Yên A",
                 "Xã Nam Yên",
@@ -11659,7 +11659,7 @@
                 "Xã Đông Yên"
             ],
             "Huyện An Minh": [
-                "Thị Trấn Thứ Mười Một",
+                "Thị trấn Thứ Mười Một",
                 "Xã Thuận Hoà",
                 "Xã Đông Hòa",
                 "Xã Đông Thạnh",
@@ -11672,7 +11672,7 @@
                 "Xã Vân Khánh Tây"
             ],
             "Huyện Vĩnh Thuận": [
-                "Thị Trấn Vĩnh Thuận",
+                "Thị trấn Vĩnh Thuận",
                 "Xã Vĩnh Bình Bắc",
                 "Xã Vĩnh Bình Nam",
                 "Xã Bình Minh",
@@ -11717,10 +11717,10 @@
         "Tỉnh Hậu Giang": {
             "Thành Phố Vị Thanh": [
                 "Phường I",
-                "Phường Iii",
-                "Phường Iv",
+                "Phường III",
+                "Phường IV",
                 "Phường V",
-                "Phường Vii",
+                "Phường VII",
                 "Xã Vị Tân",
                 "Xã Hoả Lựu",
                 "Xã Tân Tiến",
@@ -11735,15 +11735,15 @@
                 "Xã Tân Thành"
             ],
             "Huyện Châu Thành A": [
-                "Thị Trấn Một Ngàn",
+                "Thị trấn Một Ngàn",
                 "Xã Tân Hoà",
-                "Thị Trấn Bảy Ngàn",
+                "Thị trấn Bảy Ngàn",
                 "Xã Trường Long Tây",
                 "Xã Trường Long A",
                 "Xã Nhơn Nghĩa A",
-                "Thị Trấn Rạch Gòi",
+                "Thị trấn Rạch Gòi",
                 "Xã Thạnh Xuân",
-                "Thị Trấn Cái Tắc",
+                "Thị trấn Cái Tắc",
                 "Xã Tân Phú Thạnh"
             ],
             "Huyện Châu Thành": [
@@ -11752,13 +11752,13 @@
                 "Xã Đông Phú",
                 "Xã Phú Hữu",
                 "Xã Phú Tân",
-                "Thị Trấn Mái Dầm",
+                "Thị trấn Mái Dầm",
                 "Xã Đông Phước",
                 "Xã Đông Phước A"
             ],
             "Huyện Phụng Hiệp": [
-                "Thị Trấn Kinh Cùng",
-                "Thị Trấn Cây Dương",
+                "Thị trấn Kinh Cùng",
+                "Thị trấn Cây Dương",
                 "Xã Tân Bình",
                 "Xã Bình Thành",
                 "Xã Thạnh Hòa",
@@ -11769,12 +11769,12 @@
                 "Xã Phương Bình",
                 "Xã Hiệp Hưng",
                 "Xã Tân Phước Hưng",
-                "Thị Trấn Búng Tàu",
+                "Thị trấn Búng Tàu",
                 "Xã Phương Phú",
                 "Xã Tân Long"
             ],
             "Huyện Vị Thuỷ": [
-                "Thị Trấn Nàng Mau",
+                "Thị trấn Nàng Mau",
                 "Xã Vị Trung",
                 "Xã Vị Thuỷ",
                 "Xã Vị Thắng",
@@ -11789,7 +11789,7 @@
                 "Xã Thuận Hưng",
                 "Xã Thuận Hòa",
                 "Xã Vĩnh Thuận Đông",
-                "Thị Trấn Vĩnh Viễn",
+                "Thị trấn Vĩnh Viễn",
                 "Xã Vĩnh Viễn A",
                 "Xã Lương Tâm",
                 "Xã Lương Nghĩa",
@@ -11821,7 +11821,7 @@
                 "Phường 10"
             ],
             "Huyện Châu Thành": [
-                "Thị Trấn Châu Thành",
+                "Thị trấn Châu Thành",
                 "Xã Hồ Đắc Kiện",
                 "Xã Phú Tâm",
                 "Xã Thuận Hòa",
@@ -11831,8 +11831,8 @@
                 "Xã An Ninh"
             ],
             "Huyện Kế Sách": [
-                "Thị Trấn Kế Sách",
-                "Thị Trấn An Lạc Thôn",
+                "Thị trấn Kế Sách",
+                "Thị trấn An Lạc Thôn",
                 "Xã Xuân Hòa",
                 "Xã Phong Nẫm",
                 "Xã An Lạc Tây",
@@ -11846,7 +11846,7 @@
                 "Xã An Mỹ"
             ],
             "Huyện Mỹ Tú": [
-                "Thị Trấn Huỳnh Hữu Nghĩa",
+                "Thị trấn Huỳnh Hữu Nghĩa",
                 "Xã Long Hưng",
                 "Xã Hưng Phú",
                 "Xã Mỹ Hương",
@@ -11857,7 +11857,7 @@
                 "Xã Phú Mỹ"
             ],
             "Huyện Cù Lao Dung": [
-                "Thị Trấn Cù Lao Dung",
+                "Thị trấn Cù Lao Dung",
                 "Xã An Thạnh 1",
                 "Xã An Thạnh Tây",
                 "Xã An Thạnh Đông",
@@ -11867,9 +11867,9 @@
                 "Xã An Thạnh Nam"
             ],
             "Huyện Long Phú": [
-                "Thị Trấn Long Phú",
+                "Thị trấn Long Phú",
                 "Xã Song Phụng",
-                "Thị Trấn Đại Ngãi",
+                "Thị trấn Đại Ngãi",
                 "Xã Hậu Thạnh",
                 "Xã Long Đức",
                 "Xã Trường Khánh",
@@ -11880,7 +11880,7 @@
                 "Xã Long Phú"
             ],
             "Huyện Mỹ Xuyên": [
-                "Thị Trấn Mỹ Xuyên",
+                "Thị trấn Mỹ Xuyên",
                 "Xã Đại Tâm",
                 "Xã Tham Đôn",
                 "Xã Thạnh Phú",
@@ -11890,7 +11890,7 @@
                 "Xã Gia Hòa 1",
                 "Xã Ngọc Tố",
                 "Xã Gia Hòa 2",
-                "Xã Hòa Tú Ii"
+                "Xã Hòa Tú II"
             ],
             "Thị Xã Ngã Năm": [
                 "Phường 1",
@@ -11903,8 +11903,8 @@
                 "Xã Mỹ Quới"
             ],
             "Huyện Thạnh Trị": [
-                "Thị Trấn Phú Lộc",
-                "Thị Trấn Hưng Lợi",
+                "Thị trấn Phú Lộc",
+                "Thị trấn Hưng Lợi",
                 "Xã Lâm Tân",
                 "Xã Thạnh Tân",
                 "Xã Lâm Kiết",
@@ -11928,10 +11928,10 @@
             ],
             "Huyện Trần Đề": [
                 "Xã Đại Ân  2",
-                "Thị Trấn Trần Đề",
+                "Thị trấn Trần Đề",
                 "Xã Liêu Tú",
                 "Xã Lịch Hội Thượng",
-                "Thị Trấn Lịch Hội Thượng",
+                "Thị trấn Lịch Hội Thượng",
                 "Xã Trung Bình",
                 "Xã Tài Văn",
                 "Xã Viên An",
@@ -11954,7 +11954,7 @@
                 "Xã Hiệp Thành"
             ],
             "Huyện Hồng Dân": [
-                "Thị Trấn Ngan Dừa",
+                "Thị trấn Ngan Dừa",
                 "Xã Ninh Quới",
                 "Xã Ninh Quới A",
                 "Xã Ninh Hòa",
@@ -11965,7 +11965,7 @@
                 "Xã Ninh Thạnh Lợi"
             ],
             "Huyện Phước Long": [
-                "Thị Trấn Phước Long",
+                "Thị trấn Phước Long",
                 "Xã Vĩnh Phú Đông",
                 "Xã Vĩnh Phú Tây",
                 "Xã Phước Long",
@@ -11977,7 +11977,7 @@
             "Huyện Vĩnh Lợi": [
                 "Xã Vĩnh Hưng",
                 "Xã Vĩnh Hưng A",
-                "Thị Trấn Châu Hưng",
+                "Thị trấn Châu Hưng",
                 "Xã Châu Hưng A",
                 "Xã Hưng Thành",
                 "Xã Hưng Hội",
@@ -11997,7 +11997,7 @@
                 "Xã Tân Thạnh"
             ],
             "Huyện Đông Hải": [
-                "Thị Trấn Gành Hào",
+                "Thị trấn Gành Hào",
                 "Xã Long Điền Đông",
                 "Xã Long Điền Đông A",
                 "Xã Long Điền",
@@ -12010,7 +12010,7 @@
                 "Xã Định Thành A"
             ],
             "Huyện Hoà Bình": [
-                "Thị Trấn Hòa Bình",
+                "Thị trấn Hòa Bình",
                 "Xã Minh Diệu",
                 "Xã Vĩnh Bình",
                 "Xã Vĩnh Mỹ B",
@@ -12041,7 +12041,7 @@
                 "Xã Hòa Tân"
             ],
             "Huyện U Minh": [
-                "Thị Trấn U Minh",
+                "Thị trấn U Minh",
                 "Xã Khánh Hòa",
                 "Xã Khánh Thuận",
                 "Xã Khánh Tiến",
@@ -12051,7 +12051,7 @@
                 "Xã Khánh Hội"
             ],
             "Huyện Thới Bình": [
-                "Thị Trấn Thới Bình",
+                "Thị trấn Thới Bình",
                 "Xã Biển Bạch",
                 "Xã Tân Bằng",
                 "Xã Trí Phải",
@@ -12065,8 +12065,8 @@
                 "Xã Hồ Thị Kỷ"
             ],
             "Huyện Trần Văn Thời": [
-                "Thị Trấn Trần Văn Thời",
-                "Thị Trấn Sông Đốc",
+                "Thị trấn Trần Văn Thời",
+                "Thị trấn Sông Đốc",
                 "Xã Khánh Bình Tây Bắc",
                 "Xã Khánh Bình Tây",
                 "Xã Trần Hợi",
@@ -12080,7 +12080,7 @@
                 "Xã Phong Lạc"
             ],
             "Huyện Cái Nước": [
-                "Thị Trấn Cái Nước",
+                "Thị trấn Cái Nước",
                 "Xã Thạnh Phú",
                 "Xã Lương Thế Trân",
                 "Xã Phú Hưng",
@@ -12093,7 +12093,7 @@
                 "Xã Trần Thới"
             ],
             "Huyện Đầm Dơi": [
-                "Thị Trấn Đầm Dơi",
+                "Thị trấn Đầm Dơi",
                 "Xã Tạ An Khương",
                 "Xã Tạ An Khương  Đông",
                 "Xã Trần Phán",
@@ -12121,7 +12121,7 @@
                 "Xã Tam Giang Đông"
             ],
             "Huyện Phú Tân": [
-                "Thị Trấn Cái Đôi Vàm",
+                "Thị trấn Cái Đôi Vàm",
                 "Xã Phú Thuận",
                 "Xã Phú Mỹ",
                 "Xã Phú Tân",
@@ -12136,7 +12136,7 @@
                 "Xã Tân Ân Tây",
                 "Xã Viên An Đông",
                 "Xã Viên An",
-                "Thị Trấn Rạch Gốc",
+                "Thị trấn Rạch Gốc",
                 "Xã Tân Ân",
                 "Xã Đất Mũi"
             ]
